@@ -1,0 +1,1784 @@
+[
+  {
+    "id": "a",
+    "valor": "A",
+    "naipe": "copas",
+    "candidato": "lula",
+    "texto_original": "Não deixar o preço do gás e da gasolina subir sem controle só porque o dólar subiu .",
+    "texto_carta": "Não deixar o preço do gás e da gasolina subir sem controle só porque o dólar subiu.",
+    "hashtag": "#economia",
+    "status": "ajustada",
+    "motivo_mudanca": "Acabamento: espaço antes do ponto. A fonte de 2022 foi trocada pela mudança na política de preços da Petrobras em 2023.",
+    "titulo_pagina": "Preço dos combustíveis sem seguir só o dólar (fim do PPI)",
+    "explicacao": "Quem defende: **Lula**. Em 2022 ele prometeu \"abrasileirar\" o preço dos combustíveis. Em 16/05/2023 a Petrobras acabou com a paridade de importação (PPI), adotada em 2016, que amarrava o preço da gasolina e do diesel ao dólar e ao mercado internacional; no mesmo dia baixou os preços nas refinarias. Ressalva honesta: a nova regra ainda considera o mercado externo, e os preços continuaram subindo quando o petróleo encareceu (houve reajustes em 2026); o que mudou é que a alta não é repassada de forma automática.",
+    "fontes": [
+      {
+        "titulo": "Petrobras (PETR4) anuncia nova política para definir preço de combustíveis; confira os parâmetros",
+        "veiculo": "InfoMoney",
+        "data": "2023-05-16",
+        "url": "https://www.infomoney.com.br/mercados/petrobras-petr4-anuncia-nova-politica-para-definir-preco-de-combustiveis-confira-os-parametros/",
+        "oficial": false
+      },
+      {
+        "titulo": "Política de preços da Petrobras era \"mentira e crime\", diz Silveira",
+        "veiculo": "Poder360",
+        "data": "2023-05-16",
+        "url": "https://www.poder360.com.br/energia/politica-de-precos-da-petrobras-era-mentira-e-crime-diz-silveira/",
+        "oficial": false
+      },
+      {
+        "titulo": "Em meio à alta dos combustíveis, Lula defende 'abrasileirar' o preço da gasolina",
+        "veiculo": "g1",
+        "data": "2022-02-17",
+        "url": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/02/17/em-meio-a-alta-dos-combustiveis-lula-defende-abrasileirar-o-preco-da-gasolina.ghtml",
+        "oficial": false
+      }
+    ],
+    "video": {
+      "url": "https://www.youtube.com/watch?v=30hTnT_Mtes",
+      "plataforma": "youtube",
+      "embed": "https://www.youtube.com/embed/30hTnT_Mtes?start=0&end=29",
+      "inicio_s": 0,
+      "fim_s": 29,
+      "duracao_trecho_s": 29,
+      "titulo": "Lula sobre anúncio da Petrobras: 'Vamos abrasileirar os preços' dos combustíveis",
+      "canal": "UOL",
+      "data": "2023-05-16",
+      "o_que_mostra": "Lula, no dia da mudança na Petrobras (16/05/2023), pergunta por que o combustível sobe quando o dólar sobe e diz que abrasileirar os preços é compromisso do PT"
+    },
+    "alertas": [
+      "Data da matéria do InfoMoney e do Poder360 conferida pela busca (16/05/2023), não pela página aberta.",
+      "Política é de 2023; preços ainda sobem com o petróleo (reajustes em 2026). A carta fala em 'sem controle', o que continua defensável."
+    ],
+    "verificado_em": "2026-10-22"
+  },
+  {
+    "id": "2",
+    "valor": "2",
+    "naipe": "copas",
+    "candidato": "lula",
+    "texto_original": "Defender nossas riquezas é defender nossa soberania.",
+    "texto_carta": "Defender nossas riquezas é defender nossa soberania.",
+    "hashtag": "#soberania",
+    "status": "ajustada",
+    "motivo_mudanca": "Texto mantido; hashtag ajustada ao tema (soberania).",
+    "titulo_pagina": "Terras raras, petróleo e soberania nacional",
+    "explicacao": "Quem defende: **Lula**. Em 16/09/2026 ele sancionou, sem vetos, a Política Nacional de Minerais Críticos e Estratégicos, que dá incentivo para processar terras raras no Brasil em vez de exportar o minério bruto e cria um conselho ligado à Presidência que pode aprovar ou vetar operações no setor. Em agosto de 2026 ele pôs soberania e proteção das riquezas naturais (minerais críticos, água, florestas) entre as prioridades do próximo mandato e criticou as tarifas impostas pelos EUA. Ressalva: o setor privado critica o poder de veto do conselho.",
+    "fontes": [
+      {
+        "titulo": "Lula sanciona política de minerais críticos e cria conselho",
+        "veiculo": "SBT News",
+        "data": "2026-09-16",
+        "url": "https://sbtnews.sbt.com.br/noticia/politica/lula-sanciona-politica-de-minerais-criticos-e-cria-conselho",
+        "oficial": false
+      },
+      {
+        "titulo": "Lula sanciona política de minerais críticos e cria conselho com poder de veto",
+        "veiculo": "Gazeta do Povo",
+        "data": "2026-09-16",
+        "url": "https://www.gazetadopovo.com.br/economia/lula-sanciona-politica-de-minerais-criticos-e-cria-conselho-com-poder-de-veto/",
+        "oficial": false
+      },
+      {
+        "titulo": "Lula defende soberania e proteção de riquezas naturais como prioridades para o próximo mandato",
+        "veiculo": "Site da campanha (lula.com.br)",
+        "data": "2026-08-14",
+        "url": "https://lula.com.br/lula-defende-soberania-e-protecao-de-riquezas-naturais-como-prioridades-para-o-proximo-mandato/",
+        "oficial": true
+      }
+    ],
+    "video": {
+      "url": "https://www.youtube.com/watch?v=HQ37lUnWcGo",
+      "plataforma": "youtube",
+      "embed": "https://www.youtube.com/embed/HQ37lUnWcGo?start=58&end=87",
+      "inicio_s": 58,
+      "fim_s": 87,
+      "duracao_trecho_s": 29,
+      "titulo": "Lula sanciona lei de minerais críticos e defende soberania de recursos naturais do Brasil",
+      "canal": "Itatiaia",
+      "data": "2026-09-17",
+      "o_que_mostra": "Lula, na sanção da lei de minerais críticos (16/09/2026), diz que não vai entregar terras raras \"a preço de banana\" e que \"nossa soberania não está à venda\""
+    },
+    "alertas": [
+      "No trecho Lula chama adversários de \"traidores da pátria\"; é fala dele, mas tem tom de ataque.",
+      "Data das matérias (16/09/2026) conferida pela busca; número da lei (15.506/2026) citado por um portal, não conferido no Planalto, por isso não vai no texto."
+    ],
+    "verificado_em": "2026-10-22"
+  },
+  {
+    "id": "3",
+    "valor": "3",
+    "naipe": "copas",
+    "candidato": "lula",
+    "texto_original": "Adotar jornada de trabalho com duas folgas por semana, sem redução de salário.",
+    "texto_carta": "Acabar com a escala 6x1: duas folgas por semana, sem redução de salário.",
+    "hashtag": "#direitostrabalhistas",
+    "status": "ajustada",
+    "motivo_mudanca": "Texto original falava em adotar a jornada; a fonte mostra que o fim da escala 6x1 virou emenda constitucional em 16/10/2026.",
+    "titulo_pagina": "Fim da escala 6x1, sem redução de salário",
+    "explicacao": "Quem defende: **Lula**, que pôs o fim da escala 6x1 entre as prioridades do governo em fevereiro de 2026 e no plano de governo. A PEC passou na Câmara em 27/05/2026 e no Senado em 14/10/2026 (75 votos a 1), e o Congresso promulgou a Emenda Constitucional 141 em 16/10/2026, com Lula presente. A jornada máxima cai de 44 para 42 horas em dois meses e para 40 horas depois, com dois dias de descanso por semana e sem corte de salário. Ressalva honesta: Lula só abraçou a pauta no fim de 2025; e Flávio Bolsonaro, que era contra e propunha jornada flexível, acabou votando a favor no Senado.",
+    "fontes": [
+      {
+        "titulo": "Aprovado em segundo turno, fim da 6x1 vai à promulgação",
+        "veiculo": "Agência Senado",
+        "data": "2026-10-14",
+        "url": "https://www12.senado.leg.br/noticias/senado-agora/2026/10/14/aprovado-em-segundo-turno-fim-da-6x1-vai-a-promulgacao",
+        "oficial": true
+      },
+      {
+        "titulo": "Fim da escala 6x1: emenda é promulgada e prevê jornada de 40 horas sem redução salarial",
+        "veiculo": "TV Senado",
+        "data": "2026-10-16",
+        "url": "https://www12.senado.leg.br/tv/programas/noticias-1/2026/10/fim-da-escala-6x1-emenda-e-promulgada-e-preve-jornada-de-40-horas-sem-reducao-salarial",
+        "oficial": true
+      }
+    ],
+    "video": {
+      "url": "https://www.youtube.com/watch?v=AodqsCsXmzs",
+      "plataforma": "youtube",
+      "embed": "https://www.youtube.com/embed/AodqsCsXmzs?start=16&end=46",
+      "inicio_s": 16,
+      "fim_s": 46,
+      "duracao_trecho_s": 30,
+      "titulo": "Lula promulga fim da escala 6x1 no Congresso e exibe Constituição",
+      "canal": "Band Jornalismo (Jornal da Band)",
+      "data": "2026-10-16",
+      "o_que_mostra": "Jornal da Band (16/10/2026): na promulgação do fim da escala 6x1, Lula diz que ninguém quer que um trabalhador morra por falta de descanso"
+    },
+    "alertas": [
+      "Trecho recortado em 16 a 46 s (narração 'proposta que acaba com a escala 6x1' + fala de Lula). A versão de 0 a 46 s (46 s) inclui a narração 'sem redução de salário'."
+    ],
+    "verificado_em": "2026-10-22"
+  },
+  {
+    "id": "4",
+    "valor": "4",
+    "naipe": "copas",
+    "candidato": "lula",
+    "texto_original": "Criar políticas para reduzir as dívidas das famílias.",
+    "texto_carta": "Criar políticas para reduzir as dívidas das famílias.",
+    "hashtag": "#economia",
+    "status": "mantida",
+    "motivo_mudanca": "",
+    "titulo_pagina": "Desenrola: renegociação de dívidas das famílias",
+    "explicacao": "Quem fez: **Lula**. O Desenrola Brasil começou em 2023. Em 04/05/2026 o governo lançou o Novo Desenrola, para quem ganha até cinco salários mínimos: descontos de 30% a 90% em dívidas de cartão, cheque especial e crédito pessoal, juros de até 1,99% ao mês e uso de até 20% do FGTS; segundo o ministro da Fazenda, mais de 6 milhões de pessoas renegociaram até junho. Em 25/09/2026 veio o Desenrola 3.0, em que o governo compra dívidas antigas dos bancos em leilão e repassa desconto de 90%. Ressalva: a imprensa apontou o tom eleitoral do anúncio, e especialistas dizem que ainda não dá para saber se o programa quebra o ciclo de endividamento.",
+    "fontes": [
+      {
+        "titulo": "Lula confirma lançamento do novo Desenrola na segunda-feira com juros de até 1,99%",
+        "veiculo": "Money Times",
+        "data": "2026-04-30",
+        "url": "https://www.moneytimes.com.br/lula-confirma-lancamento-do-novo-desenrola-na-segunda-feira-com-juros-de-ate-199/",
+        "oficial": false
+      },
+      {
+        "titulo": "Desenrola 2.0 renegociou dívidas de 6 milhões de pessoas, diz ministro",
+        "veiculo": "Folha de Pernambuco",
+        "data": "2026-06-09",
+        "url": "https://www.folhape.com.br/noticia/amp/492760/desenrola-20-renegociou-dividas-de-6-milhoes-de-pessoas-diz-ministro/",
+        "oficial": false
+      },
+      {
+        "titulo": "Lula anuncia Desenrola 3.0 às vésperas do 1º turno das eleições",
+        "veiculo": "Poder360",
+        "data": "2026-09-25",
+        "url": "https://www.poder360.com.br/poder-governo/lula-anuncia-desenrola-3-0-as-vesperas-do-1o-turno-das-eleicoes/",
+        "oficial": false
+      }
+    ],
+    "video": {
+      "url": "https://www.youtube.com/watch?v=eDcjcpv1_Oo",
+      "plataforma": "youtube",
+      "embed": "https://www.youtube.com/embed/eDcjcpv1_Oo?start=16&end=38",
+      "inicio_s": 16,
+      "fim_s": 38,
+      "duracao_trecho_s": 22,
+      "titulo": "Na TV, Lula diz que lançará Desenrola 2.0 na próxima segunda e alerta sobre bets",
+      "canal": "Metrópoles",
+      "data": "2026-04-30",
+      "o_que_mostra": "Lula, em pronunciamento de 1º de Maio (30/04/2026), anuncia o Novo Desenrola para ajudar as famílias endividadas"
+    },
+    "alertas": [
+      "Datas da Money Times e da Folha PE conferidas pela busca, não abrindo a página.",
+      "Link original do QR (caixa.gov.br/desenrola) entra em loop de redirecionamento por robô; não usado."
+    ],
+    "verificado_em": "2026-10-22"
+  },
+  {
+    "id": "5",
+    "valor": "5",
+    "naipe": "copas",
+    "candidato": "lula",
+    "texto_original": "Combater o crime organizado, atacando as suas fontes financeiras.",
+    "texto_carta": "Combater o crime organizado, atacando as suas fontes financeiras.",
+    "hashtag": "#segurança",
+    "status": "mantida",
+    "motivo_mudanca": "",
+    "titulo_pagina": "Seguir o dinheiro do crime organizado",
+    "explicacao": "Quem defende: **Lula**. Em 28/08/2025 a Receita Federal, a PF e parceiros fizeram a Operação Carbono Oculto contra um esquema de lavagem no setor de combustíveis: cerca de mil postos movimentaram R$ 52 bilhões e uma fintech funcionava como \"banco paralelo\"; depois disso as fintechs passaram a ter de informar movimentações à Receita como os bancos. Em 12/05/2026 o governo lançou o programa Brasil contra o Crime Organizado (R$ 11 bilhões), cujo primeiro eixo é a asfixia financeira das facções. Ressalva: a operação teve participação do Ministério Público de São Paulo, e o governo de SP também reivindica o mérito.",
+    "fontes": [
+      {
+        "titulo": "Operação Carbono Oculto: RFB e órgãos parceiros combatem organização responsável por sonegação e lavagem de dinheiro no setor de combustíveis",
+        "veiculo": "Receita Federal (gov.br)",
+        "data": "2025-08-28",
+        "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2025/agosto/operacao-carbono-oculto-rrb-e-orgaos-parceiros-combatem-organizacao-responsavel-por-sonegacao-e-lavagem-de-dinheiro-no-setor-de-combustiveis",
+        "oficial": true
+      },
+      {
+        "titulo": "Programa Brasil contra o Crime Organizado foca na asfixia financeira",
+        "veiculo": "Radioagência Nacional (EBC)",
+        "data": "2026-05-12",
+        "url": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/seguranca/audio/2026-05/programa-brasil-contra-o-crime-organizado-foca-na-asfixia-financeira",
+        "oficial": true
+      },
+      {
+        "titulo": "Lula lança plano de R$ 11 bilhões contra facções no país",
+        "veiculo": "Poder360",
+        "data": "2026-05-12",
+        "url": "https://www.poder360.com.br/poder-governo/lula-lanca-plano-de-r-11-bi-contra-faccoes-no-pais/",
+        "oficial": false
+      }
+    ],
+    "video": {
+      "url": "https://www.youtube.com/watch?v=-3C5J_WyiCI",
+      "plataforma": "youtube",
+      "embed": "https://www.youtube.com/embed/-3C5J_WyiCI?start=38&end=59",
+      "inicio_s": 38,
+      "fim_s": 59,
+      "duracao_trecho_s": 21,
+      "titulo": "Lula sobre combate às facções: \"Estamos enfrentando os magnatas do crime\"",
+      "canal": "BandNews TV (Band Jornalismo)",
+      "data": "2026-09-22",
+      "o_que_mostra": "Lula, na ONU (22/09/2026), pede cooperação para estancar o fluxo de armas e de dinheiro do crime organizado e combater a lavagem de dinheiro"
+    },
+    "alertas": [
+      "Datas da Radioagência e do Poder360 (12/05/2026) conferidas pela busca. A PEC da Segurança não foi citada aqui (está na carta 17); conferir lá a situação atual.",
+      "Alternativa de trecho no mesmo vídeo: start=82&end=101 (\"maior operação contra o crime organizado da história... magnatas do crime\").",
+      "Ressalva sobre MP-SP/governo de SP baseada em títulos de reportagem (disputa de protagonismo Lula x Tarcísio); se quiser, cortar essa frase."
+    ],
+    "verificado_em": "2026-10-22"
+  },
+  {
+    "id": "6",
+    "valor": "6",
+    "naipe": "copas",
+    "candidato": "lula",
+    "texto_original": "Aumentar vagas nas Universidades.",
+    "texto_carta": "Aumentar vagas nas universidades.",
+    "hashtag": "#educação",
+    "status": "ajustada",
+    "motivo_mudanca": "Acabamento: maiúscula em \"universidades\".",
+    "titulo_pagina": "Mais vagas nas universidades e institutos federais",
+    "explicacao": "Quem fez: **governo Lula**. Em agosto de 2026 o MEC anunciou 11.354 novas vagas em 244 cursos de 65 universidades federais a partir de 2027 (programa Universidades Transformadoras), com 1.835 vagas para professores. Em março de 2024 o governo anunciou 100 novos campi de institutos federais, com previsão de 140 mil vagas, a maioria em cursos técnicos integrados ao ensino médio. Ressalva: parte dos cursos ainda está em credenciamento e pode não entrar no próximo Sisu.",
+    "fontes": [
+      {
+        "titulo": "Universidades federais abrem 11 mil vagas em novos cursos para 2027",
+        "veiculo": "Ministério da Educação (gov.br)",
+        "data": "2026-08-11",
+        "url": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/universidades-federais-abrem-11-mil-vagas-em-novos-cursos-para-2027",
+        "oficial": true
+      },
+      {
+        "titulo": "MEC autoriza novos cursos de graduação fora das capitais",
+        "veiculo": "Agência Gov (EBC)",
+        "data": "2026-08-26",
+        "url": "https://agenciagov.ebc.com.br/noticias/202608/mec-autoriza-novos-cursos-de-graduacao-fora-das-capitais",
+        "oficial": true
+      }
+    ],
+    "video": {
+      "url": "https://www.youtube.com/watch?v=KOLxJO7iQQM",
+      "plataforma": "youtube",
+      "embed": "https://www.youtube.com/embed/KOLxJO7iQQM?start=0&end=21",
+      "inicio_s": 0,
+      "fim_s": 21,
+      "duracao_trecho_s": 21,
+      "titulo": "Lula anuncia a construção de 100 novos Institutos Federais de Ensino",
+      "canal": "SBT News",
+      "data": "2024-03-13",
+      "o_que_mostra": "SBT News (13/03/2024): Lula anuncia 100 novos institutos federais, com previsão de 140 mil novas vagas"
+    },
+    "alertas": [
+      "Página do MEC bloqueia robô (captcha); números (11.354 vagas, 244 cursos, 65 universidades) e data 11/08/2026 conferidos em reportagens que reproduzem o anúncio (Radar Digital Brasília, 11/08/2026).",
+      "Vídeo é de 2024 e trata de institutos federais, não do anúncio de 2026 das universidades; não achei vídeo curto de telejornal sobre as 11 mil vagas.",
+      "Não há fala de Lula no trecho (só narração)."
+    ],
+    "verificado_em": "2026-10-22"
+  },
+  {
+    "id": "7",
+    "valor": "7",
+    "naipe": "copas",
+    "candidato": "lula",
+    "texto_original": "Manter cotas para Indígenas, Quilombolas e Negros nas universidades e concursos públicos.",
+    "texto_carta": "Manter cotas para indígenas, quilombolas e negros nas universidades e concursos públicos.",
+    "hashtag": "#educação",
+    "status": "ajustada",
+    "motivo_mudanca": "Acabamento: maiúsculas em indígenas, quilombolas e negros.",
+    "titulo_pagina": "Cotas nas universidades e nos concursos federais",
+    "explicacao": "Quem fez: **Lula**. Em 13/11/2023 ele sancionou a Lei 14.723, que renovou a Lei de Cotas (de 2012): mantém metade das vagas das universidades e institutos federais para alunos de escola pública, com reserva para pretos, pardos, indígenas e pessoas com deficiência, e inclui os quilombolas. Em 03/06/2025 sancionou a Lei 15.142, que reserva 30% das vagas de concursos federais para pretos, pardos, indígenas e quilombolas (antes eram 20%, só para negros). Ressalva: as cotas nas universidades começaram em 2012 (governo Dilma); as leis de Lula renovaram e ampliaram.",
+    "fontes": [
+      {
+        "titulo": "Lei nº 14.723, de 13 de novembro de 2023 (atualiza a Lei de Cotas)",
+        "veiculo": "Planalto",
+        "data": "2023-11-13",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/l14723.htm",
+        "oficial": true
+      },
+      {
+        "titulo": "Lei nº 15.142, de 3 de junho de 2025 (cotas de 30% em concursos federais)",
+        "veiculo": "Planalto",
+        "data": "2025-06-03",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/lei/L15142.htm",
+        "oficial": true
+      }
+    ],
+    "video": {
+      "url": "https://www.youtube.com/watch?v=r1yLNlWKkaQ",
+      "plataforma": "youtube",
+      "embed": "https://www.youtube.com/embed/r1yLNlWKkaQ?start=0&end=27",
+      "inicio_s": 0,
+      "fim_s": 27,
+      "duracao_trecho_s": 27,
+      "titulo": "Lula sanciona lei que reserva 30% das vagas de concursos para cotistas",
+      "canal": "Metrópoles",
+      "data": "2025-06-04",
+      "o_que_mostra": "Metrópoles: Lula sanciona em 03/06/2025 a lei que reserva 30% das vagas de concursos federais para pretos, pardos, indígenas e quilombolas"
+    },
+    "alertas": [
+      "Vídeo é narração com imagens da cerimônia, sem fala de Lula. Alternativa para universidades: Jornal da Record de 14/11/2023, https://www.youtube.com/watch?v=N8D6ZLbItKo trecho 26 a 60 s (34 s)."
+    ],
+    "verificado_em": "2026-10-22"
+  },
+  {
+    "id": "8",
+    "valor": "8",
+    "naipe": "copas",
+    "candidato": "lula",
+    "texto_original": "Cobrar impostos dos super-ricos para melhorar saúde, educação e segurança.",
+    "texto_carta": "Cobrar imposto mínimo dos super-ricos para isentar do IR quem ganha até R$ 5 mil por mês.",
+    "hashtag": "#reformatributária",
+    "status": "ajustada",
+    "motivo_mudanca": "Texto original dizia que o imposto dos super-ricos iria para saúde, educação e segurança; a lei aprovada usa esse imposto para compensar a isenção do IR até R$ 5 mil.",
+    "titulo_pagina": "Isenção do IR até R$ 5 mil e imposto mínimo para alta renda",
+    "explicacao": "Quem fez: **Lula**. Em 26/11/2025 ele sancionou a Lei 15.270: desde janeiro de 2026 quem ganha até R$ 5 mil por mês não paga Imposto de Renda, e quem ganha até R$ 7.350 paga menos (cerca de 15 milhões de pessoas, segundo o governo). Para compensar, quem recebe mais de R$ 600 mil por ano passa a pagar um imposto mínimo, que chega a 10% para rendas acima de R$ 1,2 milhão, e há 10% sobre dividendos enviados ao exterior. Ressalva: o dinheiro dos super-ricos cobre a isenção; não é verba nova para saúde ou educação. A lei passou por unanimidade na Câmara e no Senado.",
+    "fontes": [
+      {
+        "titulo": "Lei nº 15.270, de 26 de novembro de 2025",
+        "veiculo": "Planalto",
+        "data": "2025-11-26",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/lei/L15270.htm",
+        "oficial": true
+      },
+      {
+        "titulo": "Presidente Lula sanciona lei que amplia isenção do Imposto de Renda para quem ganha até R$ 5 mil",
+        "veiculo": "Planalto (gov.br)",
+        "data": "2025-11-26",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/noticias/2025/11/presidente-lula-sanciona-lei-que-amplia-isencao-do-imposto-de-renda-para-quem-ganha-ate-r-5-mil",
+        "oficial": true
+      }
+    ],
+    "video": {
+      "url": "https://www.youtube.com/watch?v=-YsNAlUGMxE",
+      "plataforma": "youtube",
+      "embed": "https://www.youtube.com/embed/-YsNAlUGMxE?start=69&end=93",
+      "inicio_s": 69,
+      "fim_s": 93,
+      "duracao_trecho_s": 24,
+      "titulo": "Lula sanciona isenção de IR até R$ 5 mil e taxação mínima para rendas altas",
+      "canal": "SBT News (SBT Brasil)",
+      "data": "2025-11-26",
+      "o_que_mostra": "SBT Brasil (26/11/2025): pela lei sancionada, quem ganha até R$ 5 mil fica isento e, para compensar, quem ganha mais de R$ 50 mil por mês paga até 10%"
+    },
+    "alertas": [
+      "Texto da carta mudou de sentido (de 'melhorar saúde, educação e segurança' para 'isentar do IR'): o Luan deve aprovar.",
+      "Trecho do vídeo é narração; fala de Lula sobre dividendos está em start=44&end=69 (25 s).",
+      "Link original do QR era Brasil 247 (alinhado), substituído por fontes oficiais."
+    ],
+    "verificado_em": "2026-10-22"
+  },
+  {
+    "id": "9",
+    "valor": "9",
+    "naipe": "espadas",
+    "candidato": "lula",
+    "texto_original": "Regular as redes sociais para preservar a Democracia, combater fake news e crimes digitais.",
+    "texto_carta": "Regular as redes sociais para preservar a democracia, combater fake news e crimes digitais.",
+    "hashtag": "#democracia",
+    "status": "ajustada",
+    "motivo_mudanca": "Acabamento: \"democracia\" em minúscula; hashtag ajustada ao tema.",
+    "titulo_pagina": "Regras para as redes sociais e plataformas digitais",
+    "explicacao": "Quem defende é **Lula**. Em abril de 2026, na Espanha, disse que é preciso \"regular tudo o que for digital\" e que não dá para tratar \"a indústria da mentira\" como liberdade de expressão. Em maio de 2026 o governo publicou o Decreto 12.975, que atualiza a regulamentação do Marco Civil da Internet com deveres de cuidado, canal de denúncia e transparência para as plataformas (em vigor desde 20/07/2026). O plano de governo promete avançar nessa regulação, mas não detalha um novo projeto de lei; o PL das Fake News (PL 2630/2020) segue parado na Câmara. Críticos chamam as medidas de censura; o governo diz que são regras de responsabilidade das plataformas.",
+    "fontes": [
+      {
+        "titulo": "Lula pede regulação global das redes sociais: 'Muito ódio, promiscuidade, sexo e jogatina'",
+        "veiculo": "BBC News Brasil",
+        "data": "2026-04-18",
+        "url": "https://www.bbc.com/portuguese/articles/clyx9kz811lo",
+        "oficial": false
+      },
+      {
+        "titulo": "Decreto nº 12.975, de 20 de maio de 2026 (altera a regulamentação do Marco Civil da Internet)",
+        "veiculo": "Planalto",
+        "data": "2026-05-20",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/decreto/D12975.htm",
+        "oficial": true
+      },
+      {
+        "titulo": "Publicado decreto que endurece regras para plataformas digitais",
+        "veiculo": "Congresso em Foco",
+        "data": "2026-05-21",
+        "url": "https://www.congressoemfoco.com.br/noticia/119052/publicado-decreto-que-endurece-regras-para-plataformas-digitais",
+        "oficial": false
+      }
+    ],
+    "video": {
+      "url": "https://www.youtube.com/watch?v=LwQ5ICrDXHY",
+      "plataforma": "youtube",
+      "embed": "https://www.youtube.com/embed/LwQ5ICrDXHY?start=35&end=60",
+      "inicio_s": 35,
+      "fim_s": 60,
+      "duracao_trecho_s": 25,
+      "titulo": "Lula faz discurso defendendo regulação de redes sociais",
+      "canal": "Band Jornalismo",
+      "data": "2026-04-17",
+      "o_que_mostra": "Lula, em Barcelona (17/04/2026), diz que é preciso \"regular tudo que for digital\" para evitar o \"colonialismo digital\" das big techs e a intromissão de fora na eleição"
+    },
+    "alertas": [
+      "Acabamento para a impressão: a carta original tem um \"6\" invertido no canto; conferir no arquivo de impressão.",
+      "O plano de governo de Lula não foi lido na íntegra (TSE bloqueia acesso automatizado); a promessa de \"avançar\" vem de reportagem."
+    ],
+    "verificado_em": "2026-10-22"
+  },
+  {
+    "id": "10",
+    "valor": "10",
+    "naipe": "espadas",
+    "candidato": "lula",
+    "texto_original": "Manter Bolsa Família, Pé de Meia, Vale Gás e outros benefícios sociais",
+    "texto_carta": "Manter Bolsa Família, Pé-de-Meia, Gás do Povo e outros benefícios sociais.",
+    "hashtag": "#programassociais",
+    "status": "ajustada",
+    "motivo_mudanca": "\"Vale Gás\" passou a se chamar Gás do Povo (Lei 15.348/2026); grafia de Pé-de-Meia e ponto final.",
+    "titulo_pagina": "Bolsa Família, Pé-de-Meia e Gás do Povo",
+    "explicacao": "Quem defende é **Lula**. O plano de governo registrado no TSE promete \"manter, aperfeiçoar e ampliar as políticas de proteção social\", aprimorar o Pé-de-Meia e cita o Gás do Povo, que substituiu o antigo Auxílio Gás com recarga gratuita do botijão para famílias do CadÚnico (Lei 15.348, de fevereiro de 2026). Em 17/09/2026 um decreto reajustou o Bolsa Família em 15,04% (reposição da inflação desde 2023): o piso foi de R$ 600 para R$ 691 a partir de outubro. Ressalvas: a oposição chama o reajuste, a semanas da eleição, de eleitoreiro; e o plano de Flávio também diz que vai \"manter os programas sociais existentes\".",
+    "fontes": [
+      {
+        "titulo": "Pobreza e desigualdade: veja propostas de Lula na íntegra",
+        "veiculo": "SBT News",
+        "data": "2026-09-02",
+        "url": "https://sbtnews.sbt.com.br/noticia/eleicoes/pobreza-e-desigualdade-veja-propostas-de-lula-na-integra",
+        "oficial": false
+      },
+      {
+        "titulo": "Bolsa Família é reajustado em 15%; medida vale a partir de outubro",
+        "veiculo": "Bora Investir (B3), com Estadão Conteúdo",
+        "data": "2026-09-17",
+        "url": "https://borainvestir.b3.com.br/noticias/bolsa-familia-e-reajustado-em-15-medida-vale-a-partir-de-outubro/",
+        "oficial": false
+      },
+      {
+        "titulo": "Lei nº 15.348, de 13 de fevereiro de 2026 (Auxílio Gás do Povo)",
+        "veiculo": "Planalto",
+        "data": "2026-02-13",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/L15348.htm",
+        "oficial": true
+      }
+    ],
+    "video": {
+      "url": "https://www.youtube.com/watch?v=DtJF-lGBK_I",
+      "plataforma": "youtube",
+      "embed": "https://www.youtube.com/embed/DtJF-lGBK_I?start=182&end=206",
+      "inicio_s": 182,
+      "fim_s": 206,
+      "duracao_trecho_s": 24,
+      "titulo": "Lula vai aliviar o bolso do povo - Programa 13 Lula Presidente 2026",
+      "canal": "Lula",
+      "data": "2026-09-27",
+      "o_que_mostra": "Lula, no programa eleitoral de 27/09/2026, diz que o Pé-de-Meia será universalizado para todo o ensino médio"
+    },
+    "alertas": [
+      "O vídeo cobre só o Pé-de-Meia; não achei trecho curto de Lula citando os três programas juntos. Alternativa: Lula sobre Bolsa Família em 2023 (https://www.youtube.com/watch?v=weq1qFwyFQ8, 0 a 25 s) ou sobre o Gás do Povo em BH, 2025 (https://www.youtube.com/watch?v=Ubpd7RTKiuU, 63 a 83 s).",
+      "O trecho é de propaganda eleitoral (canal oficial de Lula), tem música de fundo.",
+      "Nome legal do programa: \"Auxílio Gás do Povo\"; o governo usa \"Gás do Povo\"."
+    ],
+    "verificado_em": "2026-10-22"
+  },
+  {
+    "id": "11",
+    "valor": "11",
+    "naipe": "espadas",
+    "candidato": "lula",
+    "texto_original": "Garantir o aumento anual do salário mínimo acima da inflação.",
+    "texto_carta": "Garantir o aumento anual do salário mínimo acima da inflação.",
+    "hashtag": "#direitostrabalhistas",
+    "status": "ajustada",
+    "motivo_mudanca": "Texto mantido; hashtag corrigida.",
+    "titulo_pagina": "Salário mínimo com aumento acima da inflação",
+    "explicacao": "Quem defende é **Lula**. A Lei 14.663/2023 recriou a política de valorização: o mínimo é corrigido pela inflação (INPC) mais o crescimento do PIB de dois anos antes; de 2025 a 2030 o ganho real fica entre 0,6% e 2,5% ao ano (Lei 15.077/2024, ligada ao arcabouço fiscal). O mínimo foi de R$ 1.320 (2023) a R$ 1.621 (2026), e o projeto de Orçamento de 2027 prevê R$ 1.741 (valor final sai em dezembro, conforme a inflação). O plano de governo promete manter essa política. O plano de Flávio não menciona o salário mínimo.",
+    "fontes": [
+      {
+        "titulo": "Lei nº 14.663, de 28 de agosto de 2023 (política de valorização do salário mínimo)",
+        "veiculo": "Planalto",
+        "data": "2023-08-28",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/L14663.htm",
+        "oficial": true
+      },
+      {
+        "titulo": "Projeto de Orçamento de 2027 prevê salário mínimo de R$ 1.741",
+        "veiculo": "Congresso em Foco",
+        "data": "2026-08-31",
+        "url": "https://www.congressoemfoco.com.br/noticia/121825/projeto-de-orcamento-de-2027-preve-salario-minimo-de-r-1-741",
+        "oficial": false
+      },
+      {
+        "titulo": "Lula não sancionou lei que congela salário mínimo até 2030",
+        "veiculo": "Aos Fatos",
+        "data": "2025-01-09",
+        "url": "https://www.aosfatos.org/noticias/lula-nao-sancionou-lei-que-congela-salario-minimo-ate-2030/",
+        "oficial": false
+      }
+    ],
+    "video": {
+      "url": "https://www.youtube.com/watch?v=Hh00VXq3cLg",
+      "plataforma": "youtube",
+      "embed": "https://www.youtube.com/embed/Hh00VXq3cLg?start=11&end=40",
+      "inicio_s": 11,
+      "fim_s": 40,
+      "duracao_trecho_s": 29,
+      "titulo": "Lula defende valorização do salário mínimo 'de acordo com o PIB'",
+      "canal": "UOL",
+      "data": "2023-01-18",
+      "o_que_mostra": "Lula, em reunião com centrais sindicais (18/01/2023), diz que já provou ser possível aumentar o mínimo acima da inflação e que o PIB precisa ser distribuído"
+    },
+    "alertas": [
+      "Vídeo de janeiro de 2023 (anúncio da política); não achei trecho curto de 2026 com Lula falando do tema.",
+      "Hashtag original estava quebrada (\"#direitos trabalhistas\\\"\"); corrigida para #direitostrabalhistas."
+    ],
+    "verificado_em": "2026-10-22"
+  },
+  {
+    "id": "12",
+    "valor": "12",
+    "naipe": "espadas",
+    "candidato": "lula",
+    "texto_original": "Aumentar o número de creches.",
+    "texto_carta": "Aumentar o número de creches.",
+    "hashtag": "#educação",
+    "status": "ajustada",
+    "motivo_mudanca": "Texto mantido; hashtag ajustada ao tema (educação).",
+    "titulo_pagina": "Mais creches pelo país",
+    "explicacao": "Quem defende é **Lula**. O plano de governo diz que vai priorizar \"a expansão da cobertura das creches\" e continuar a construção de 3.562 creches e escolas de educação infantil em 2.360 municípios apoiadas pelo Novo PAC, além de retomar obras paradas. Em 31/03/2026 ele sancionou a Lei 15.369, que obriga os municípios a oferecer creche e pré-escola também na zona rural, proporcional à população (o projeto é de um deputado do PDT). Ressalvas: o plano não traz meta de vagas, muitas obras ainda não foram entregues, e o plano de Flávio também promete ampliar creches, com voucher para creche privada onde faltar vaga.",
+    "fontes": [
+      {
+        "titulo": "Educação: o que Lula propõe em plano de governo",
+        "veiculo": "SBT News",
+        "data": "2026-09-03",
+        "url": "https://sbtnews.sbt.com.br/noticia/eleicoes/educacao-o-que-lula-propoe-em-plano-de-governo",
+        "oficial": false
+      },
+      {
+        "titulo": "Nova lei expande oferta de creches e pré-escolas em zonas rurais",
+        "veiculo": "Agência Senado",
+        "data": "2026-04-01",
+        "url": "https://www12.senado.leg.br/noticias/materias/2026/04/01/nova-lei-expande-oferta-de-creches-e-pre-escolas-em-zonas-rurais",
+        "oficial": true
+      },
+      {
+        "titulo": "Lula e Flávio divergem sobre creches, escolas militares e ensino técnico",
+        "veiculo": "IstoÉ",
+        "data": "2026-10-15",
+        "url": "https://istoe.com.br/propostas-educacao-lula-flavio-2026",
+        "oficial": false
+      }
+    ],
+    "video": {
+      "url": "https://www.youtube.com/watch?v=VLDwcl2pCkY",
+      "plataforma": "youtube",
+      "embed": "https://www.youtube.com/embed/VLDwcl2pCkY?start=2748&end=2778",
+      "inicio_s": 2748,
+      "fim_s": 2778,
+      "duracao_trecho_s": 30,
+      "titulo": "Lula inaugura obras na área da educação",
+      "canal": "PT - Partido dos Trabalhadores",
+      "data": "2026-03-30",
+      "o_que_mostra": "Na cerimônia com Lula (30/03/2026), o ministro da Educação diz que o governo retomou 2.491 obras paradas para entregar escolas e creches e já concluiu 736"
+    },
+    "alertas": [
+      "Quem fala no vídeo é o ministro da Educação, não Lula; não achei trecho curto de Lula falando de creches. Os números de novas creches aparecem logo depois (2.778 a 2.795 s: \"1.683 novas creches\" pelo Novo PAC).",
+      "A Lei 15.369/2026 foi conferida no Planalto (https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/L15369.htm): é de 31/03/2026 e veio de projeto do deputado Damião Feliciano (PDT-PB), sancionado por Lula.",
+      "Hashtag trocada de #programassociais para #educação (tema da carta)."
+    ],
+    "verificado_em": "2026-10-22"
+  },
+  {
+    "id": "13",
+    "valor": "13",
+    "naipe": "espadas",
+    "candidato": "lula",
+    "texto_original": "Fortalecer o SUS para garantir saúde para todos.",
+    "texto_carta": "Fortalecer o SUS para garantir saúde para todos.",
+    "hashtag": "#saúde",
+    "status": "mantida",
+    "motivo_mudanca": "",
+    "titulo_pagina": "SUS mais forte: especialistas, Mais Médicos e Farmácia Popular",
+    "explicacao": "Quem defende é **Lula**. O plano de governo promete impulsionar o Agora Tem Especialistas (criado em 2025, hoje Lei 15.233/2025, para reduzir a fila de consultas, exames e cirurgias com carretas, mutirões, terceiro turno e compra de vagas em hospitais privados), criar uma fila única digital por risco clínico, ampliar o Mais Médicos e manter a Farmácia Popular gratuita. Em abril de 2026 Lula disse que sua \"obsessão é provar que o Estado pode ser igual ou melhor\" que a rede privada. Ressalva: o plano não detalha custos nem metas de redução das filas.",
+    "fontes": [
+      {
+        "titulo": "Saúde: veja propostas de Lula na íntegra",
+        "veiculo": "SBT News",
+        "data": "2026-09-04",
+        "url": "https://sbtnews.sbt.com.br/noticia/eleicoes/saude-veja-propostas-de-lula-na-integra",
+        "oficial": false
+      },
+      {
+        "titulo": "Lei nº 15.233, de 7 de outubro de 2025 (institui o Programa Agora Tem Especialistas)",
+        "veiculo": "Planalto",
+        "data": "2025-10-07",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/lei/L15233.htm",
+        "oficial": true
+      },
+      {
+        "titulo": "Conheça propostas de Lula-Alckmin para a saúde",
+        "veiculo": "PT (site do partido)",
+        "data": "2026-08-18",
+        "url": "https://pt.org.br/conheca-propostas-de-lula-alckmin-para-a-saude-em-defesa-da-ciencia-e-da-vida/",
+        "oficial": true
+      }
+    ],
+    "video": {
+      "url": "https://www.youtube.com/watch?v=QWMX4P0rHaQ",
+      "plataforma": "youtube",
+      "embed": "https://www.youtube.com/embed/QWMX4P0rHaQ?start=37&end=66",
+      "inicio_s": 37,
+      "fim_s": 66,
+      "duracao_trecho_s": 29,
+      "titulo": "Lula diz que o SUS foi transformado em 'inimigo' por quem nunca precisou da rede pública de saúde",
+      "canal": "Jornal da Record",
+      "data": "2026-04-11",
+      "o_que_mostra": "Lula, no Incor (SP), em abril de 2026, diz que o SUS foi \"massacrado\" por quem nunca o usou e que quer provar que o Estado pode ser igual ou melhor que o setor privado"
+    },
+    "alertas": [
+      "A fonte do PT é documento de campanha (marcada como oficial); a principal é o SBT News."
+    ],
+    "verificado_em": "2026-10-22"
+  },
+  {
+    "id": "14",
+    "valor": "14",
+    "naipe": "espadas",
+    "candidato": "lula",
+    "texto_original": "Fortalecer a Casa da Mulher Brasileira para acolher vítimas de violência doméstica",
+    "texto_carta": "Fortalecer a Casa da Mulher Brasileira para acolher vítimas de violência doméstica.",
+    "hashtag": "#defesadamulher",
+    "status": "ajustada",
+    "motivo_mudanca": "Acabamento: ponto final e aspas.",
+    "titulo_pagina": "Casa da Mulher Brasileira: acolhimento a vítimas de violência",
+    "explicacao": "Quem defende é **Lula**. A Casa da Mulher Brasileira reúne no mesmo lugar delegacia, juizado, defensoria, apoio psicológico e abrigo para mulheres em situação de violência. Em março de 2023 o governo anunciou mais de R$ 370 milhões para novas unidades; em fevereiro de 2026 eram 11 em funcionamento, segundo o Ministério das Mulheres, com mais seis previstas para 2026. O plano de governo promete concluir 30 Casas e 15 Centros de Referência e manter o Pacto de Enfrentamento ao Feminicídio como guia. Ressalva: as entregas andam devagar, e os feminicídios bateram recorde em 2025 (1.571, segundo o Fórum Brasileiro de Segurança Pública).",
+    "fontes": [
+      {
+        "titulo": "Crime e violência: veja as propostas de Lula na íntegra",
+        "veiculo": "SBT News",
+        "data": "2026-08-31",
+        "url": "https://sbtnews.sbt.com.br/noticia/eleicoes/crime-e-violencia-veja-as-propostas-de-lula-na-integra",
+        "oficial": false
+      },
+      {
+        "titulo": "Governo inaugura duas novas Casas da Mulher Brasileira em março",
+        "veiculo": "Jornal de Brasília",
+        "data": "2026-02-25",
+        "url": "https://jornaldebrasilia.com.br/noticias/brasil/governo-inaugura-duas-novas-casas-da-mulher-brasileira-em-marco/",
+        "oficial": false
+      }
+    ],
+    "video": {
+      "url": "https://www.youtube.com/watch?v=92xbDfvQ-FY",
+      "plataforma": "youtube",
+      "embed": "https://www.youtube.com/embed/92xbDfvQ-FY?start=126&end=150",
+      "inicio_s": 126,
+      "fim_s": 150,
+      "duracao_trecho_s": 24,
+      "titulo": "Lula anuncia ações para assegurar direitos femininos no Dia da Mulher",
+      "canal": "Rádio BandNews FM",
+      "data": "2023-03-08",
+      "o_que_mostra": "Reportagem da BandNews (08/03/2023) informa que Lula anunciou mais de R$ 370 milhões para implantar unidades da Casa da Mulher Brasileira"
+    },
+    "alertas": [
+      "Vídeo de 2023 e quem fala é o repórter, não Lula; não achei vídeo curto de Lula falando da Casa da Mulher Brasileira.",
+      "Número de Casas em funcionamento hoje não confirmado em fonte oficial: o dado de 11 é de fevereiro de 2026 (antes das inaugurações de Macapá e Aracaju, previstas para março). O site do Ministério das Mulheres não foi acessível por robô.",
+      "Fonte do QR original (pt.org.br, 2023) é antiga e do partido; substituída."
+    ],
+    "verificado_em": "2026-10-22"
+  },
+  {
+    "id": "15",
+    "valor": "15",
+    "naipe": "espadas",
+    "candidato": "lula",
+    "texto_original": "Criar o Sistema Único de Segurança semelhante ao SUS para unir governo federal, estados e municípios no combate ao crime.",
+    "texto_carta": "Aprovar a PEC da Segurança e criar o Ministério da Segurança Pública para unir União, estados e municípios contra o crime.",
+    "hashtag": "#segurança",
+    "status": "ajustada",
+    "motivo_mudanca": "Texto original falava em criar o Sistema Único de Segurança, que existe desde 2018 (Lei 13.675); a proposta atual é a PEC da Segurança e o Ministério da Segurança Pública.",
+    "titulo_pagina": "PEC da Segurança e Ministério da Segurança Pública",
+    "explicacao": "Quem defende é **Lula**. O Sistema Único de Segurança Pública (Susp) existe desde 2018 (Lei 13.675). A PEC da Segurança (PEC 18/2025), enviada pelo governo, põe o Susp na Constituição, torna a União corresponsável pelo combate ao crime organizado junto com estados e municípios, endurece regras contra facções e milícias e protege os fundos da área. Lula diz que cria o Ministério da Segurança Pública assim que a PEC passar. Situação em 22/10/2026: aprovada pela Câmara e pela CCJ do Senado (14/10), mas retirada da pauta do plenário em 15/10 para negociar emendas, sem nova data.",
+    "fontes": [
+      {
+        "titulo": "PEC da Segurança é retirada de pauta",
+        "veiculo": "Rádio Senado",
+        "data": "2026-10-15",
+        "url": "https://www12.senado.leg.br/radio/1/noticia/2026/10/15/plenario-abre-ordem-do-dia-com-previsao-de-votar-pec-da-seguranca",
+        "oficial": true
+      },
+      {
+        "titulo": "CCJ conclui votação da PEC da Segurança; texto vai ao Plenário",
+        "veiculo": "Agência Senado",
+        "data": "2026-10-14",
+        "url": "https://www12.senado.leg.br/noticias/materias/2026/10/14/ccj-conclui-votacao-da-pec-da-seguranca-texto-vai-ao-plenario",
+        "oficial": true
+      },
+      {
+        "titulo": "Lula defende PEC da Segurança e diz que lema da campanha agora é: 'Para o povo trabalhador, proteção; para o bandido, prisão'",
+        "veiculo": "g1",
+        "data": "2026-10-07",
+        "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/07/lula-defende-pec-da-seguranca-e-diz-que-lema-da-campanha-e-para-o-povo-trabalhador-protecao-para-o-bandido-prisao.ghtml",
+        "oficial": false
+      }
+    ],
+    "video": {
+      "url": "https://www.youtube.com/watch?v=g004uAEx_gU",
+      "plataforma": "youtube",
+      "embed": "https://www.youtube.com/embed/g004uAEx_gU?start=8&end=33",
+      "inicio_s": 8,
+      "fim_s": 33,
+      "duracao_trecho_s": 25,
+      "titulo": "Lula diz que criará Ministério da Segurança se PEC for aprovada",
+      "canal": "Poder360",
+      "data": "2026-05-12",
+      "o_que_mostra": "Lula, em maio de 2026, diz que a Câmara já aprovou a PEC e que, no dia em que o Senado aprovar, criará o Ministério da Segurança Pública"
+    },
+    "alertas": [
+      "Texto novo tem 122 caracteres; se ficar apertado na carta, versão curta: \"Aprovar a PEC da Segurança e criar o Ministério da Segurança Pública.\"",
+      "Situação da PEC muda rápido: conferir no dia antes de divulgar (em 20/10 não havia nova data para o plenário do Senado)."
+    ],
+    "verificado_em": "2026-10-22"
+  },
+  {
+    "id": "16",
+    "valor": "16",
+    "naipe": "espadas",
+    "candidato": "lula",
+    "texto_original": " Ampliar Carretas da Saúde e hospitais para acabar com as filas para exames e cirurgias.",
+    "texto_carta": "Ampliar Carretas da Saúde e hospitais para reduzir as filas de exames e cirurgias.",
+    "hashtag": "#saúde",
+    "status": "ajustada",
+    "motivo_mudanca": "Acabamento e precisão: o plano fala em reduzir as filas, não em acabar com elas.",
+    "titulo_pagina": "Carretas da Saúde para encurtar a fila do SUS",
+    "explicacao": "Quem defende é **Lula**. As Carretas da Saúde são unidades móveis do programa Agora Tem Especialistas (Lei 15.233/2025) que fazem mamografia, ultrassom, exames de imagem e cirurgias de catarata nas cidades. Em maio de 2026 havia 71 carretas, que já tinham atendido moradores de mais de 1.700 municípios; a meta do governo é chegar a 150. O plano de governo promete impulsionar o programa com carretas, mutirões, terceiro turno e compra de vagas em hospitais privados. Ressalva: o plano não diz em quanto tempo a fila cai, e Lula, em setembro, falou em \"150 carretas andando\", número que não confirmamos.",
+    "fontes": [
+      {
+        "titulo": "Carretas do Agora Tem Especialistas chegam a 1.700 municípios em nova rodada",
+        "veiculo": "Jornal de Brasília",
+        "data": "2026-05-04",
+        "url": "https://jornaldebrasilia.com.br/noticias/brasil/carretas-do-agora-tem-especialistas-chegam-a-1-700-municipios-em-nova-rodada/",
+        "oficial": false
+      },
+      {
+        "titulo": "Saúde: veja propostas de Lula na íntegra",
+        "veiculo": "SBT News",
+        "data": "2026-09-04",
+        "url": "https://sbtnews.sbt.com.br/noticia/eleicoes/saude-veja-propostas-de-lula-na-integra",
+        "oficial": false
+      },
+      {
+        "titulo": "Lei nº 15.233, de 7 de outubro de 2025 (institui o Programa Agora Tem Especialistas)",
+        "veiculo": "Planalto",
+        "data": "2025-10-07",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/lei/L15233.htm",
+        "oficial": true
+      }
+    ],
+    "video": {
+      "url": "https://www.youtube.com/watch?v=ZPE4O1Ah2gM",
+      "plataforma": "youtube",
+      "embed": "https://www.youtube.com/embed/ZPE4O1Ah2gM?start=45&end=74",
+      "inicio_s": 45,
+      "fim_s": 74,
+      "duracao_trecho_s": 29,
+      "titulo": "Lula aborda desafios do SUS diante de filas de cirurgias e envelhecimento da população",
+      "canal": "Jornal da Record",
+      "data": "2026-09-15",
+      "o_que_mostra": "Lula, em entrevista à Record (15/09/2026), cita 15 milhões de cirurgias eletivas no ano anterior e as carretas que fazem exames pelo país"
+    },
+    "alertas": [
+      "No vídeo Lula diz \"150 carretas andando\"; em maio de 2026 eram 71 e 150 era a meta para o fim do ano. Número atual não confirmado (páginas do gov.br estão desativadas pelo período eleitoral).",
+      "Fonte do QR original (Fala News, 2025) é imprensa local; substituída."
+    ],
+    "verificado_em": "2026-10-22"
+  },
+  {
+    "id": "17",
+    "valor": "17",
+    "naipe": "ouros",
+    "candidato": "lula",
+    "texto_original": " Para o povo trabalhador, proteção. Para o bandido, prisão.",
+    "texto_carta": "Para o povo trabalhador, proteção. Para o bandido, prisão.",
+    "hashtag": "#segurança",
+    "status": "ajustada",
+    "motivo_mudanca": "Acabamento: espaço no início do texto.",
+    "titulo_pagina": "\"Para o povo trabalhador, proteção. Para o bandido, prisão.\"",
+    "explicacao": "É o lema de campanha de **Lula** para a segurança pública, lançado em 07/10/2026 em encontro com parlamentares do PT. Junto com o lema, ele defendeu a PEC da Segurança (que põe o Susp na Constituição e dá à União papel no combate ao crime organizado), a criação do Ministério da Segurança Pública depois que a PEC passar e a transformação de presídios regionais em unidades de segurança máxima. Ressalvas: é um slogan, não uma medida; a PEC ainda não passou no plenário do Senado; e a segurança é a área em que o governo mais recebe críticas.",
+    "fontes": [
+      {
+        "titulo": "Lula defende PEC da Segurança e diz que lema da campanha agora é: 'Para o povo trabalhador, proteção; para o bandido, prisão'",
+        "veiculo": "g1",
+        "data": "2026-10-07",
+        "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/07/lula-defende-pec-da-seguranca-e-diz-que-lema-da-campanha-e-para-o-povo-trabalhador-protecao-para-o-bandido-prisao.ghtml",
+        "oficial": false
+      },
+      {
+        "titulo": "PEC da Segurança é retirada de pauta",
+        "veiculo": "Rádio Senado",
+        "data": "2026-10-15",
+        "url": "https://www12.senado.leg.br/radio/1/noticia/2026/10/15/plenario-abre-ordem-do-dia-com-previsao-de-votar-pec-da-seguranca",
+        "oficial": true
+      }
+    ],
+    "video": {
+      "url": "https://www.youtube.com/watch?v=ElYx_SBzWGA",
+      "plataforma": "youtube",
+      "embed": "https://www.youtube.com/embed/ElYx_SBzWGA?start=27&end=48",
+      "inicio_s": 27,
+      "fim_s": 48,
+      "duracao_trecho_s": 21,
+      "titulo": "\"Para o trabalhador, a proteção. Para o bandido, prisão\", diz Lula em ato com deputados eleitos",
+      "canal": "Metrópoles",
+      "data": "2026-10-07",
+      "o_que_mostra": "Lula, em 07/10/2026, diz que criará o Ministério da Segurança Pública após a PEC e anuncia o lema \"para o povo trabalhador, a proteção, para o bandido, a prisão\""
+    },
+    "alertas": [
+      "Alternativa só com o lema: Poder360 (https://www.youtube.com/watch?v=zgLzQQo-ov0, 0 a 17 s).",
+      "A carta cita frase literal do lema de Lula: fácil de adivinhar no jogo."
+    ],
+    "verificado_em": "2026-10-22"
+  },
+  {
+    "id": "18",
+    "valor": "18",
+    "naipe": "ouros",
+    "candidato": "flavio",
+    "texto_original": "Oferecer o Brasil para exploração dos Estados Unidos",
+    "texto_carta": "Ir aos Estados Unidos oferecer as terras raras do Brasil, minerais estratégicos, para os americanos deixarem de depender da China.",
+    "hashtag": "#soberania",
+    "status": "reescrita",
+    "motivo_mudanca": "O texto original (\"oferecer o Brasil para exploração dos EUA\") era interpretação. A carta descreve o que ele fez na CPAC, em 28/03/2026: apresentar as terras raras brasileiras, minerais estratégicos para chips e armas, como saída para os EUA deixarem de depender da China.",
+    "titulo_pagina": "Terras raras do Brasil oferecidas aos EUA (CPAC, março de 2026)",
+    "explicacao": "Em 28/03/2026, no Texas, na CPAC (conferência conservadora dos EUA), **Flávio Bolsonaro** disse em inglês que \"o Brasil é a solução da América para quebrar a dependência da China por minerais críticos, especialmente terras raras\". Disse que os EUA precisam de \"um parceiro confiável\" e que o Brasil tem \"o que o mundo precisa\".\n\nTerras raras são minerais estratégicos: entram em chips, ímãs de motores, turbinas e equipamento militar. O Brasil tem a segunda maior reserva do mundo, depois da China. Por isso o tema é de soberania: quem controla a extração e o processamento controla uma riqueza que vale mais a cada ano. Em 08/04/2026, Lula reagiu (\"essa gente vai vender o Brasil\").\n\n**Ressalva honesta:** não houve acordo formal; a oferta foi feita no discurso. Em 26/04/2026 ele disse que quer negociar \"com todo mundo\", inclusive a China, e transferir tecnologia para cá, e o plano de governo registrado fala em processar os minerais no Brasil (\"em vez de somente exportar a pedra bruta\").",
+    "fontes": [
+      {
+        "titulo": "Flávio diz que Brasil é \"solução para EUA ter minerais de terras raras\"",
+        "veiculo": "CNN Brasil",
+        "data": "2026-03-30",
+        "url": "https://www.cnnbrasil.com.br/politica/flavio-diz-que-brasil-e-solucao-para-eua-ter-minerais-de-terras-raras/",
+        "oficial": false
+      },
+      {
+        "titulo": "Disputa de EUA e China por terras raras do Brasil invade o debate presidencial",
+        "veiculo": "Gazeta do Povo",
+        "data": "2026-04-27",
+        "url": "https://www.gazetadopovo.com.br/republica/disputa-de-eua-e-china-por-terras-raras-do-brasil-invade-o-debate-presidencial/",
+        "oficial": false
+      },
+      {
+        "titulo": "Flávio Bolsonaro defende uso de terras raras no Brasil por outros países",
+        "veiculo": "Estado de Minas",
+        "data": "2026-04-26",
+        "url": "https://www.em.com.br/politica/2026/04/7406266-flavio-bolsonaro-defende-uso-de-terras-raras-no-brasil-por-outros-paises.html",
+        "oficial": false
+      },
+      {
+        "titulo": "\"Essa gente vai vender o Brasil\", diz Lula sobre Flávio e Caiado",
+        "veiculo": "Poder360",
+        "data": "2026-04-08",
+        "url": "https://www.poder360.com.br/poder-governo/essa-gente-vai-vender-o-brasil-diz-lula-sobre-flavio-e-caiado/",
+        "oficial": false
+      },
+      {
+        "titulo": "Plano de governo: minerais críticos",
+        "veiculo": "Campanha Flávio Bolsonaro (plano registrado no TSE)",
+        "data": "2026-08-13",
+        "url": "https://www.flaviobolsonaro.com.br/plano-de-governo/leitura",
+        "oficial": true
+      }
+    ],
+    "video": {
+      "url": "https://www.youtube.com/watch?v=xPlKzqiYH5c",
+      "plataforma": "youtube",
+      "embed": "https://www.youtube.com/embed/xPlKzqiYH5c?start=0&end=22",
+      "inicio_s": 0,
+      "fim_s": 22,
+      "duracao_trecho_s": 22,
+      "titulo": "Flávio Bolsonaro diz que Brasil é \"solução para EUA ter minerais de terras raras\" | CNN 360°",
+      "canal": "CNN Brasil",
+      "data": "2026-03-30",
+      "o_que_mostra": "CNN Brasil (30/03/2026): na CPAC, Flávio defendeu que o Brasil é a solução para os EUA quebrarem a dependência da China por terras raras; os EUA importam cerca de 70% desses minerais da China"
+    },
+    "alertas": [
+      "23/10: vídeo trocado: saiu o discurso dele na CPAC (Metrópoles CqtrIucb70w, fala livre em inglês) e entrou a nota da CNN Brasil, só narração.",
+      "Ponto que um leitor hostil vai levantar: o plano registrado diz que vai agregar valor aos minerais no Brasil; a ressalva está na explicação.",
+      "Documento de 22 páginas de André Marinho ('Prosperity Partnership', plano de exploração de terras raras com os EUA) foi noticiado em 09/2026 (O POVO Wf-L6DEDgvU), mas Marinho disse que era estudo individual, não encomendado pela campanha; não usado.",
+      "Carta de Marco Rubio (23/06/2026) e críticas de Boulos e Mercadante: versões conflitantes e só de adversários; não usado."
+    ],
+    "verificado_em": "2026-10-23"
+  },
+  {
+    "id": "19",
+    "valor": "19",
+    "naipe": "ouros",
+    "candidato": "flavio",
+    "texto_original": "Não reconhecer as mudanças climáticas e não ter plano de governo para proteger a população e as cidades ameaçadas por enchentes, secas etc.",
+    "texto_carta": "Negar a ciência do clima, dizendo que o calor extremo é cíclico, e não ter no plano nenhuma meta para cortar emissões de carbono.",
+    "hashtag": "#meioambiente",
+    "status": "reescrita",
+    "motivo_mudanca": "O texto original dizia que ele não tem plano contra enchentes e secas, mas o plano tem obras de prevenção. A carta usa a fala dele no Jornal Nacional, classificada como falsa pela Agência Lupa, e o fato de o plano não ter meta de redução de emissões.",
+    "titulo_pagina": "Clima: \"efeitos cíclicos\" e nenhuma meta de emissões",
+    "explicacao": "No Jornal Nacional de 28/08/2026, o apresentador lembrou que **Flávio Bolsonaro** escreveu em 2019 que não existe aquecimento global e perguntou se ele mantinha a opinião. Ele respondeu: \"eu acredito que são efeitos cíclicos\" e \"não acho que isso tem a ver diretamente só com a influência do ser humano\". Perguntado de novo se o aquecimento existe, não disse que sim.\n\nA Agência Lupa classificou a fala como **falsa**: segundo o IPCC (ONU), a ação humana, sobretudo a queima de carvão, petróleo e gás, é a principal causa do aquecimento global.\n\nO plano de governo dele não tem meta de redução das emissões de gases do efeito estufa (o plano de Lula tem, até 2035). Segundo a Agência Brasil, o clima aparece uma única vez no plano dele, como \"eventos climáticos extremos\". O plano também prevê liberar o fracking (gás de xisto) e dar a licença ambiental se o órgão não decidir no prazo.\n\n**Ressalva honesta:** o plano tem obras contra enchentes, reforço da Defesa Civil, meta de zerar o desmatamento ilegal até 2029 e mercado de carbono.",
+    "fontes": [
+      {
+        "titulo": "Ao vivo: checagem da entrevista de Flávio Bolsonaro ao Jornal Nacional",
+        "veiculo": "Agência Lupa",
+        "data": "2026-08-28",
+        "url": "https://www.agencialupa.org/checagem/2026/08/28/ao-vivo-checagem-da-entrevista-de-flavio-bolsonaro-ao-jornal-nacional/",
+        "oficial": false
+      },
+      {
+        "titulo": "Flávio Bolsonaro se nega a afirmar que acredita em aquecimento global",
+        "veiculo": "O Liberal (Estadão Conteúdo)",
+        "data": "2026-08-28",
+        "url": "https://www.oliberal.com/politica/flavio-bolsonaro-se-nega-a-afirmar-que-acredita-em-aquecimento-global-1.1162558",
+        "oficial": false
+      },
+      {
+        "titulo": "Veja os planos de governo de Flávio e Lula para meio ambiente e clima",
+        "veiculo": "Money Times (Agência Brasil)",
+        "data": "2026-10-14",
+        "url": "https://www.moneytimes.com.br/veja-os-planos-de-governo-de-flavio-e-lula-para-meio-ambiente-e-clima-fets/",
+        "oficial": false
+      },
+      {
+        "titulo": "Plano de governo \"Para o Brasil Vencer o Atraso\" (texto integral)",
+        "veiculo": "Campanha Flávio Bolsonaro (plano registrado no TSE)",
+        "data": "2026-08-13",
+        "url": "https://www.flaviobolsonaro.com.br/plano-de-governo/leitura",
+        "oficial": true
+      }
+    ],
+    "video": {
+      "url": "https://www.youtube.com/watch?v=pd4eTwS6_Cs",
+      "plataforma": "youtube",
+      "embed": "https://www.youtube.com/embed/pd4eTwS6_Cs?start=205&end=235",
+      "inicio_s": 205,
+      "fim_s": 235,
+      "duracao_trecho_s": 30,
+      "titulo": "CRISE CLIMÁTICA | Minas nos planos de governo dos presidenciáveis",
+      "canal": "TV Assembleia (Assembleia Legislativa de Minas Gerais)",
+      "data": "2026-10-14",
+      "o_que_mostra": "TV Assembleia de MG (14/10/2026): o repórter lembra que, no JN, Flávio disse que não vivemos uma situação diferente ou mais grave do clima, que são só ciclos ao longo da história"
+    },
+    "alertas": [
+      "23/10: vídeo trocado: saiu a resposta dele no JN (g1 K6uiNsqP7cI, fala sem contraponto e seguida de discurso de campanha) e entrou reportagem da TV Assembleia de MG, emissora pública.",
+      "'Nenhuma meta para cortar emissões': conferido no texto do plano no site da campanha (as palavras 'emissões', 'efeito estufa', 'Paris', 'CO2' e 'descarbonização' não aparecem); o PDF do TSE não foi aberto (bloqueio a robô).",
+      "O artigo de 2019 em que ele negou o aquecimento global foi citado pelo apresentador do JN; o artigo não foi localizado.",
+      "Trecho 205 a 235 s: mostra a fala do JN contada pelo repórter. A frase de que eventos climáticos aparecem uma vez só no plano está logo antes (192 a 202 s), fora do recorte; a falta de meta de emissões está só na fonte escrita."
+    ],
+    "verificado_em": "2026-10-23"
+  },
+  {
+    "id": "20",
+    "valor": "20",
+    "naipe": "ouros",
+    "candidato": "flavio",
+    "texto_original": "Acabar com o auxílio BPC para famílias com pessoas doentes.",
+    "texto_carta": "Votar para manter o veto de Jair Bolsonaro à ampliação do BPC, benefício de idosos e pessoas com deficiência de baixa renda.",
+    "hashtag": "#programassociais",
+    "status": "reescrita",
+    "motivo_mudanca": "O texto original atribuía a ele acabar com o BPC, o que as checagens apontam como falso. O veto à ampliação foi de Jair Bolsonaro (2019); o registro oficial mostra que Flávio votou para mantê-lo, em 10/03/2020.",
+    "titulo_pagina": "O veto de Jair Bolsonaro à ampliação do BPC e o voto de Flávio (2020)",
+    "explicacao": "O BPC paga um salário mínimo a idosos e pessoas com deficiência de famílias de baixa renda. Em 2019, o Congresso aprovou subir o limite de renda para ter direito, de 1/4 para 1/2 salário mínimo por pessoa. O então presidente **Jair Bolsonaro** vetou o projeto inteiro (Veto 55/2019).\n\nNa sessão do Congresso de 10/03/2020, o senador **Flávio Bolsonaro** votou \"Sim\", pela manutenção do veto do pai, com outros 13 senadores; 45 votaram para derrubar. Na Câmara, Eduardo Bolsonaro também votou para manter. O veto caiu por 45 a 14 no Senado e 302 a 137 na Câmara.\n\nDepois da derrota, o governo de Jair Bolsonaro foi ao STF (ADPF 662), e em 03/04/2020 o ministro Gilmar Mendes suspendeu a ampliação por falta de fonte de custeio.\n\n**Ressalva honesta:** o governo alegava custo de cerca de R$ 20 bilhões por ano sem fonte de recursos. É falso que Flávio prometa \"acabar com o BPC\"; o que existe hoje é um estudo da equipe dele, revelado pela Folha em 08/10/2026, de reajustar BPC e aposentadorias só pela inflação, que ele nega.",
+    "fontes": [
+      {
+        "titulo": "Resultado nominal da votação do Veto nº 55/2019 (sessão conjunta nº 4, 10/03/2020)",
+        "veiculo": "Congresso Nacional",
+        "data": "2020-03-10",
+        "url": "https://legis.senado.leg.br/siscon/api/portalcn/pdfResultadoNominalDestaque/12925",
+        "oficial": true
+      },
+      {
+        "titulo": "BPC: veto de Bolsonaro a aumento de benefício a idoso é derrubado",
+        "veiculo": "Metrópoles",
+        "data": "2020-03-11",
+        "url": "https://www.metropoles.com/brasil/politica-brasil/bpc-veto-de-bolsonaro-a-aumento-de-beneficio-a-idoso-e-derrubado",
+        "oficial": false
+      },
+      {
+        "titulo": "Gilmar Mendes suspende lei que aumentou limite de renda do BPC",
+        "veiculo": "ConJur",
+        "data": "2020-04-03",
+        "url": "https://www.conjur.com.br/2020-abr-03/gilmar-mendes-suspende-lei-aumentou-limite-renda-bpc/",
+        "oficial": false
+      },
+      {
+        "titulo": "Plano de ajuste fiscal de Flávio Bolsonaro prevê corte de 2% do PIB, diz jornal",
+        "veiculo": "InfoMoney (sobre reportagem da Folha)",
+        "data": "2026-10-08",
+        "url": "https://www.infomoney.com.br/politica/plano-de-ajuste-fiscal-de-flavio-bolsonaro-preve-corte-de-2-do-pib-diz-jornal/",
+        "oficial": false
+      }
+    ],
+    "video": {
+      "url": "https://www.youtube.com/watch?v=mCKYUekoR7k",
+      "plataforma": "youtube",
+      "embed": "https://www.youtube.com/embed/mCKYUekoR7k?start=1&end=30",
+      "inicio_s": 1,
+      "fim_s": 30,
+      "duracao_trecho_s": 29,
+      "titulo": "Congresso derruba veto de Bolsonaro ao BPC - 11/03/20",
+      "canal": "TV Câmara (Câmara dos Deputados)",
+      "data": "2020-03-11",
+      "o_que_mostra": "TV Câmara (11/03/2020): o Congresso derrubou o veto total de Jair Bolsonaro ao projeto que sobe de 1/4 para 1/2 salário mínimo o limite de renda do BPC"
+    },
+    "alertas": [
+      "Nenhum vídeo achado mostra o voto de Flávio; ele está só no resultado nominal oficial (PDF do Congresso: \"Flávio Bolsonaro: S.Part./RJ - Sim\"; Sim = manter o veto). O vídeo prova o veto de Jair e a derrubada.",
+      "Resposta ao Luan: o veto é de Jair; o voto para mantê-lo é de Flávio (senador) e também de Eduardo (deputado), que discursou a favor do veto no mesmo dia, o que pode explicar a dúvida.",
+      "Segundo voto citado pelo ICL (nov/2020) não foi achado em registro oficial; ficou de fora.",
+      "Fato de 2020 (ele era senador sem partido)."
+    ],
+    "verificado_em": "2026-10-23"
+  },
+  {
+    "id": "21",
+    "valor": "21",
+    "naipe": "ouros",
+    "candidato": "flavio",
+    "texto_original": "Defender o armamento da população.",
+    "texto_carta": "Defender facilitar o acesso da população a armas de fogo.",
+    "hashtag": "#segurança",
+    "status": "ajustada",
+    "motivo_mudanca": "Precisão: \"armamento da população\" passou a \"facilitar o acesso a armas\", que é o que ele propõe.",
+    "titulo_pagina": "Mais acesso a armas para civis",
+    "explicacao": "Em 25/07/2023, **Flávio Bolsonaro** foi o primeiro autor do PDL 193/2023, para derrubar por inteiro o decreto de Lula que restringiu compra, posse e porte de armas e o acesso de CACs (atiradores, caçadores e colecionadores). Na época disse que o decreto era \"uma sentença de morte para muita gente\" e que \"a bandidagem agradece\".\n\nNa entrevista à TV Globo de 16/10/2026, defendeu mudar o Estatuto do Desarmamento e chamou de \"teses malucas\" a ideia de que mais armas com cidadãos causam mais violência.\n\n**Contexto:** com a flexibilização do governo de Jair Bolsonaro, as armas registradas por CACs passaram de 350 mil (2018) para mais de 1 milhão (2022), segundo o Exército. O STF validou por unanimidade, em junho de 2025, os decretos de Lula que voltaram a restringir. **Ressalva:** ele diz que \"ninguém está defendendo bangue-bangue\" e que o problema são \"as armas nas mãos das pessoas erradas\"; o tema não está no plano de governo.",
+    "fontes": [
+      {
+        "titulo": "Projeto de Decreto Legislativo n° 193, de 2023",
+        "veiculo": "Senado Federal",
+        "data": "2023-07-25",
+        "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/158826",
+        "oficial": true
+      },
+      {
+        "titulo": "Flávio Bolsonaro critica novo decreto de armas: 'Bandidagem agradece'",
+        "veiculo": "Estado de Minas",
+        "data": "2023-07-22",
+        "url": "https://www.em.com.br/app/noticia/politica/2023/07/22/interna_politica,1523694/flavio-bolsonaro-critica-novo-decreto-de-armas-bandidagem-agradece.shtml",
+        "oficial": false
+      },
+      {
+        "titulo": "Flávio defende mudanças no Estatuto do Desarmamento",
+        "veiculo": "SBT News",
+        "data": "2026-10-17",
+        "url": "https://sbtnews.sbt.com.br/noticia/eleicoes/flavio-defende-mudancas-no-estatuto-do-desarmamento",
+        "oficial": false
+      }
+    ],
+    "video": {
+      "url": "https://www.youtube.com/watch?v=plkylJ8nDKY",
+      "plataforma": "youtube",
+      "embed": "https://www.youtube.com/embed/plkylJ8nDKY?start=160&end=186",
+      "inicio_s": 160,
+      "fim_s": 186,
+      "duracao_trecho_s": 26,
+      "titulo": "Bancadas atuam para derrubar decreto de armas de Lula | CNN 360°",
+      "canal": "CNN Brasil",
+      "data": "2023-07-25",
+      "o_que_mostra": "CNN Brasil (25/07/2023): enquanto deputados discutiam derrubar só um trecho do decreto de armas de Lula, o senador Flávio Bolsonaro apresentou projeto para derrubar o decreto inteiro"
+    },
+    "alertas": [
+      "23/10: vídeo trocado: saiu a resposta dele na entrevista à Globo (g1 gRBlN9Yu638, fala livre) e entrou reportagem da CNN Brasil do dia em que ele protocolou o PDL.",
+      "O trecho não explica o decreto (a explicação da página faz isso); o começo do vídeo (0 a 15 s) diz que é o decreto de armas de Lula.",
+      "Vídeo de 2023; a posição de 2026 (Estatuto do Desarmamento, 'teses malucas') está só nas fontes escritas.",
+      "O PDL 193/2023 foi considerado prejudicado na CSP (tramita junto com o PDL 190/2023) e segue na CCJ."
+    ],
+    "verificado_em": "2026-10-23"
+  },
+  {
+    "id": "22",
+    "valor": "22",
+    "naipe": "ouros",
+    "candidato": "flavio",
+    "texto_original": "Facilitar contratações sem carteira assinada e deixar trabalhadores sem férias, 13º salário, seguro desemprego e outras garantias.",
+    "texto_carta": "Assinar a PEC do trabalho pago por hora.",
+    "hashtag": "#direitostrabalhistas",
+    "status": "reescrita",
+    "motivo_mudanca": "O texto original dizia que ele quer deixar trabalhadores sem férias e 13º, o que é falso; a fonte oficial do Senado mostra que ele assinou a PEC 12/2026, do trabalho pago por hora.",
+    "titulo_pagina": "PEC do trabalho por hora (PEC 12/2026)",
+    "explicacao": "Em 28/05/2026, **Flávio Bolsonaro** foi um dos senadores que assinaram a PEC 12/2026, de Rogério Marinho (coordenador da campanha dele). O texto cria a jornada flexível paga \"por hora trabalhada\", com férias, 13º e FGTS proporcionais às horas, e diz que, na compensação e redução de jornada, o contrato individual prevalece sobre a convenção coletiva. Ela não reduz a jornada nem garante dois dias de folga. Em 30/08 e 06/10/2026, ele defendeu o pagamento por hora como alternativa ao fim da escala 6x1 (\"infinitamente melhor\", disse em outubro). Ressalvas: o trabalhador poderia escolher ficar na CLT comum; e, depois de criticar o fim da 6x1, Flávio votou a favor dele no Senado em 14/10/2026 (75 a 1).",
+    "fontes": [
+      {
+        "titulo": "Proposta de Emenda à Constituição n° 12, de 2026",
+        "veiculo": "Senado Federal",
+        "data": "2026-05-28",
+        "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/174362",
+        "oficial": true
+      },
+      {
+        "titulo": "Flávio defende trabalho por hora como alternativa ao fim da escala 6x1",
+        "veiculo": "Congresso em Foco",
+        "data": "2026-10-06",
+        "url": "https://www.congressoemfoco.com.br/noticia/123034/flavio-defende-trabalho-por-hora-como-alternativa-ao-fim-da-escala-6x1",
+        "oficial": false
+      },
+      {
+        "titulo": "Por 75 votos a um, Senado aprova PEC do fim da escala 6x1",
+        "veiculo": "Congresso em Foco",
+        "data": "2026-10-14",
+        "url": "https://www.congressoemfoco.com.br/noticia/123241/por-75-votos-a-um-senado-aprova-pec-do-fim-da-escala-6x1",
+        "oficial": false
+      }
+    ],
+    "video": {
+      "url": "https://www.youtube.com/watch?v=AG7X72RxsyU",
+      "plataforma": "youtube",
+      "embed": "https://www.youtube.com/embed/AG7X72RxsyU?start=113&end=142",
+      "inicio_s": 113,
+      "fim_s": 142,
+      "duracao_trecho_s": 29,
+      "titulo": "Veja quais senadores já assinaram a PEC alternativa para o fim da escala 6x1 | O POVO News",
+      "canal": "O POVO",
+      "data": "2026-05-29",
+      "o_que_mostra": "O POVO News (29/05/2026) mostra no telão a lista dos senadores que assinaram a PEC alternativa ao fim da 6x1 e lê o nome de Flávio Bolsonaro (PL-RJ)"
+    },
+    "alertas": [
+      "ele votou a favor do fim da 6x1 em 14/10/2026: a explicação diz isso para não parecer que escondemos",
+      "líder do PL na Câmara (Sóstenes) disse em 14/10 que no regime por hora \"não há férias e 13º\", o que contradiz o texto da PEC; não usado",
+      "Rogério Marinho é o primeiro autor; Flávio é coautor (signatário) segundo o Senado",
+      "o plano de governo também prevê contratos com menor custo para jovens de 18 a 24 anos e para quem tem 50+ desempregado há 12 meses (Poder360); não entrou na carta",
+      "23/10: vídeo trocado: saiu a reportagem do SBT News (não citava Flávio) e entrou O POVO News (29/05/2026), que mostra o nome dele na lista de signatários (tela em 2:05 e leitura em 2:20). Antes do trecho (0:15 a 0:45) a reportagem explica que a PEC é a alternativa da oposição liderada por Rogério Marinho; o detalhe do pagamento por hora está na fonte do Senado.",
+      "Texto encurtado a pedido do Luan (até a primeira vírgula); os detalhes (férias e 13º proporcionais, acordo individual acima do coletivo, sem redução de jornada) ficaram na explicação. Opção um pouco mais longa: \"Assinar a PEC do trabalho pago por hora, alternativa da oposição ao fim da escala 6x1.\""
+    ],
+    "verificado_em": "2026-10-23"
+  },
+  {
+    "id": "23",
+    "valor": "23",
+    "naipe": "ouros",
+    "candidato": "flavio",
+    "texto_original": "Tentar impedir a votação da nova escala de trabalho com duas folgas por semana.",
+    "texto_carta": "Ser contra o fim da escala 6x1 na campanha e só mudar de posição na véspera da votação, a 11 dias do 2º turno.",
+    "hashtag": "#direitostrabalhistas",
+    "status": "reescrita",
+    "motivo_mudanca": "Texto original dizia que ele tentou impedir a votação; ele votou a favor em 14/10/2026, depois de ser contra na campanha. A carta mostra a mudança de posição, e o vídeo mostra o antes e o depois.",
+    "titulo_pagina": "Fim da escala 6x1: contra na campanha, a favor na véspera",
+    "explicacao": "**Flávio Bolsonaro** foi contra o fim da escala 6x1 durante a campanha. Em 28/05/2026 assinou a PEC 12/2026, de Rogério Marinho (coordenador da campanha dele), que cria o trabalho pago por hora. Em maio, quando a Câmara discutia a PEC, chamou o tema de \"inoportuno e eleitoreiro\". Em 06/10 disse ter \"uma proposta infinitamente melhor\" e chamou a discussão entre os turnos de oportunista.\n\nEm 13/10, véspera da votação e a 11 dias do 2º turno, anunciou que votaria a favor. Em 14/10 não foi ao plenário: votou a distância, enquanto fazia campanha no Rio Grande do Sul. A PEC passou por 75 a 1 e foi promulgada em 16/10.\n\nNo Jornal Nacional (16/10) ele explicou: \"eu rodei o Brasil inteiro, eu ouvi muitos trabalhadores e eu votei conforme o que eu vi nas ruas\" e \"resolvi seguir a vontade da maioria dos trabalhadores\". Lula atribuiu a virada à pressão popular; segundo o SBT News, a decisão contrariou Marinho.\n\n**Ressalva honesta:** o voto final de Flávio foi a favor do fim da 6x1. Ele continua defendendo a jornada flexível como alternativa.",
+    "fontes": [
+      {
+        "titulo": "Fim da escala 6x1: contra ou a favor? Veja o que Flávio Bolsonaro já disse sobre o tema",
+        "veiculo": "O POVO",
+        "data": "2026-10-14",
+        "url": "https://www.opovo.com.br/noticias/economia/2026/10/14/flavio-bolsonaro-muda-voto-sobre-escala-6x1.html",
+        "oficial": false
+      },
+      {
+        "titulo": "\"Hipocrisia\" e \"prejudicial ao trabalhador\": saiba o que Flávio já falou sobre fim da escala 6X1",
+        "veiculo": "Folha de Pernambuco",
+        "data": "2026-10-13",
+        "url": "https://www.folhape.com.br/politica/hipocrisia-e-prejudicial-ao-trabalhador-saiba-o-que-flavio-ja/518111/",
+        "oficial": false
+      },
+      {
+        "titulo": "Senado aprova fim da escala 6x1 e redução da jornada de trabalho",
+        "veiculo": "Agência Brasil",
+        "data": "2026-10-15",
+        "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/senado-aprova-fim-da-escala-6x1-e-reducao-da-jornada-de-trabalho",
+        "oficial": true
+      },
+      {
+        "titulo": "Flávio diz que ouviu trabalhadores ao mudar de ideia sobre escala 6x1",
+        "veiculo": "Diário do Grande ABC",
+        "data": "2026-10-16",
+        "url": "https://www.dgabc.com.br/Noticia/4353258/flavio-diz-que-ouviu-trabalhadores-ao-mudar-de-ideia-sobre-escala-6x1",
+        "oficial": false
+      },
+      {
+        "titulo": "Em campanha no RS, Flávio vota a distância a favor do fim da 6x1",
+        "veiculo": "TNH1",
+        "data": "2026-10-15",
+        "url": "https://www.tnh1.com.br/noticia/nid/em-campanha-no-rs-flavio-vota-a-distancia-a-favor-do-fim-da-6x1/",
+        "oficial": false
+      },
+      {
+        "titulo": "Apoio de Flávio a fim da 6x1 chateou coordenador da campanha",
+        "veiculo": "SBT News",
+        "data": "2026-10-17",
+        "url": "https://sbtnews.sbt.com.br/noticia/eleicoes/apoio-de-flavio-a-fim-da-6x1-chateou-coordenador-da-campanha",
+        "oficial": false
+      },
+      {
+        "titulo": "Flávio muda posição e anuncia voto pelo fim da escala 6x1; Lula atribui virada do rival a pressão popular",
+        "veiculo": "Times Brasil",
+        "data": "2026-10-13",
+        "url": "https://timesbrasil.com.br/brasil/decisao-2026-flavio-muda-posicao-e-anuncia-voto-pelo-fim-da-escala-6x1-lula-atribui-virada-do-rival-a-pressao-popular-veja-o-dia-dos-candidatos-ao-planalto/",
+        "oficial": false
+      },
+      {
+        "titulo": "Proposta de Emenda à Constituição n° 12, de 2026",
+        "veiculo": "Senado Federal",
+        "data": "2026-05-28",
+        "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/174362",
+        "oficial": true
+      }
+    ],
+    "video": {
+      "url": "https://www.youtube.com/watch?v=XdwQxaamhp0",
+      "plataforma": "youtube",
+      "embed": "https://www.youtube.com/embed/XdwQxaamhp0?start=114&end=139",
+      "inicio_s": 114,
+      "fim_s": 139,
+      "duracao_trecho_s": 25,
+      "titulo": "Análise: Flávio Bolsonaro recua e abraça fim da escala 6x1 | LIVE CNN",
+      "canal": "CNN Brasil",
+      "data": "2026-10-14",
+      "o_que_mostra": "CNN Brasil (14/10/2026): em maio Flávio chamou a discussão de inoportuna e eleitoreira; uma semana antes do voto disse que era oportunismo eleitoral; uma semana depois anunciou voto a favor"
+    },
+    "alertas": [
+      "A data de 13/10 para o anúncio e o voto a distância vêm de imprensa (Times Brasil, TNH1, DGABC, O POVO); a lista nominal do Senado não foi aberta.",
+      "23/10: vídeo trocado a pedido do Luan, que queria ver o antes e o depois. Saiu o Jornal da Band (OtwePyLD1Us, só a virada) e entrou análise da CNN que lista as falas contra (maio e 06/10) e a virada. O vídeo não traz a voz dele dizendo que era contra.",
+      "Alternativa com a voz dele contra: UOL rDvOy5qFoMQ (06/10/2026), 12 a 23 s (\"tenho uma proposta infinitamente melhor do que essa proposta que está na mesa\"); não usada porque o vídeo segue com ele falando livremente por 2 minutos (ataques a Lula, \"tesouraço\").",
+      "Outra opção sem a voz dele: g1, análise de Julia Duailibi (kXO-lu2vve4, 14/10/2026), 7 a 36 s: \"Flávio sempre foi um crítico do projeto... teve de recuar\"."
+    ],
+    "verificado_em": "2026-10-23"
+  },
+  {
+    "id": "24",
+    "valor": "24",
+    "naipe": "ouros",
+    "candidato": "flavio",
+    "texto_original": "Adotar o tesouraço (cortes) nos gastos públicos, reduzindo serviços públicos gratuitos para população.",
+    "texto_carta": "Prometer um \"tesouraço\" de cortes nos gastos públicos, sem dizer o que será cortado.",
+    "hashtag": "#estadominimo",
+    "status": "ajustada",
+    "motivo_mudanca": "Texto original dizia que os cortes reduzem serviços gratuitos, o que o plano não diz; o plano promete o \"tesouraço\" sem dizer o que será cortado.",
+    "titulo_pagina": "O \"tesouraço\": cortes sem detalhe",
+    "explicacao": "O plano de governo de **Flávio Bolsonaro** (\"Para o Brasil Vencer o Atraso\") promete um \"tesouraço\" na máquina pública (o corte de ministérios está na carta 29). Segundo Forbes e Poder360 (outubro de 2026), o plano não diz quais ministérios, quantos cargos nem quanto se economiza. Em fevereiro de 2026, ao SBT News, Flávio disse: \"eu não vou dar detalhes do que eu vou propor... onde eu vou cortar\". Em 08/10/2026 a Folha revelou que a equipe dele estuda um ajuste de cerca de 2% do PIB, inclusive reajustar aposentadorias e BPC só pela inflação; ele nega. **Ressalva:** ele cita cargos em comissão, publicidade e supersalários como alvos, e a campanha nega cortes em programas sociais.",
+    "fontes": [
+      {
+        "titulo": "\"Tesouraço\": o que prevê a cartilha de Flávio Bolsonaro para a economia",
+        "veiculo": "Forbes Brasil",
+        "data": "2026-10-05",
+        "url": "https://forbes.com.br/forbes-money/2026/10/tesouraco-flavio-bolsonaro-plano-economico/",
+        "oficial": false
+      },
+      {
+        "titulo": "O que se sabe sobre o plano econômico de Flávio Bolsonaro",
+        "veiculo": "Poder360",
+        "data": "2026-10-13",
+        "url": "https://www.poder360.com.br/poder-eleicoes-2026/o-que-se-sabe-sobre-o-plano-economico-de-flavio-bolsonaro/",
+        "oficial": false
+      },
+      {
+        "titulo": "Plano de ajuste fiscal de Flávio Bolsonaro prevê corte de 2% do PIB, diz jornal",
+        "veiculo": "InfoMoney (sobre reportagem da Folha)",
+        "data": "2026-10-08",
+        "url": "https://www.infomoney.com.br/politica/plano-de-ajuste-fiscal-de-flavio-bolsonaro-preve-corte-de-2-do-pib-diz-jornal/",
+        "oficial": false
+      },
+      {
+        "titulo": "Flávio Bolsonaro fala em \"tesouraço\" em eventual governo (vídeo, 69 a 98 s)",
+        "veiculo": "SBT News",
+        "data": "2026-02-11",
+        "url": "https://www.youtube.com/watch?v=wpNp-ZsI6Uw&t=69s",
+        "oficial": false
+      }
+    ],
+    "video": {
+      "url": "https://www.youtube.com/watch?v=nhp-syJ738g",
+      "plataforma": "youtube",
+      "embed": "https://www.youtube.com/embed/nhp-syJ738g?start=112&end=140",
+      "inicio_s": 112,
+      "fim_s": 140,
+      "duracao_trecho_s": 28,
+      "titulo": "Míriam Leitão: A conta não fecha no plano econômico de Flávio Bolsonaro",
+      "canal": "Rádio CBN",
+      "data": "2026-10-09",
+      "o_que_mostra": "Míriam Leitão (CBN, 09/10/2026): Flávio não diz nenhuma área de corte para não desagradar nenhum grupo; com o mercado, a campanha detalha o que não detalha em público"
+    },
+    "alertas": [
+      "23/10: vídeo trocado a pedido do Luan: saiu Flávio explicando o tesouraço ao SBT (wpNp-ZsI6Uw, falando livremente) e entrou o comentário de Míriam Leitão na CBN. A fala \"não vou dar detalhes de onde vou cortar\" ficou só como fonte.",
+      "O trecho é comentário (opinião de colunista), não reportagem; a parte sobre conversas fechadas com o mercado é apuração dela e do jornal O Globo citada no programa, não conferida em outra fonte.",
+      "Faltou link direto ao plano registrado no TSE (DivulgaCandContas dá 403 por robô)."
+    ],
+    "verificado_em": "2026-10-23"
+  },
+  {
+    "id": "25",
+    "valor": "25",
+    "naipe": "paus",
+    "candidato": "flavio",
+    "texto_original": "Aumentar a idade e reduzir o valor da aposentadoria.",
+    "texto_carta": "Votar a favor da reforma da Previdência de 2019, que fixou idade mínima de 62 anos (mulher) e 65 (homem) para se aposentar.",
+    "hashtag": "#previdência",
+    "status": "reescrita",
+    "motivo_mudanca": "Texto original dizia que ele quer aumentar a idade de aposentadoria, sem fonte; a fonte oficial mostra o voto dele a favor da reforma da Previdência de 2019, que fixou idade mínima.",
+    "titulo_pagina": "Reforma da Previdência de 2019: o voto no Senado",
+    "explicacao": "Em 22/10/2019, no 2º turno da reforma da Previdência (PEC 6/2019) no Senado, **Flávio Bolsonaro**, então no PSL-RJ, votou **Sim** no texto principal, aprovado por 60 a 19. A reforma virou a Emenda Constitucional 103/2019 e fixou idade mínima de 62 anos para mulheres e 65 para homens no regime geral, além de mudar o cálculo dos benefícios. Hoje: a Folha revelou em 08/10/2026 que a equipe dele estuda reajustar aposentadorias e BPC só pela inflação; **Flávio nega** e diz que não fará \"economia em cima de aposentado\".",
+    "fontes": [
+      {
+        "titulo": "Reforma da Previdência: como votaram os senadores, com relação ao texto principal, em segundo turno",
+        "veiculo": "Agência Senado",
+        "data": "2019-10-22",
+        "url": "https://www12.senado.leg.br/noticias/materias/2019/10/22/reforma-da-previdencia-como-votaram-os-senadores-com-relacao-ao-texto-principal-em-segundo-turno",
+        "oficial": true
+      },
+      {
+        "titulo": "Emenda Constitucional nº 103, de 12 de novembro de 2019",
+        "veiculo": "Planalto",
+        "data": "2019-11-12",
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc103.htm",
+        "oficial": true
+      }
+    ],
+    "video": {
+      "url": "https://www.youtube.com/watch?v=edtgV6WBp5U",
+      "plataforma": "youtube",
+      "embed": "https://www.youtube.com/embed/edtgV6WBp5U?start=102&end=130",
+      "inicio_s": 102,
+      "fim_s": 130,
+      "duracao_trecho_s": 28,
+      "titulo": "Senado aprova, em 2º turno, texto-base da Reforma da Previdência | SBT Brasil (22/10/19)",
+      "canal": "SBT News",
+      "data": "2019-10-23",
+      "o_que_mostra": "SBT Brasil de 22/10/2019 mostra a aprovação da reforma no Senado e a idade mínima de 62 anos para mulheres e 65 para homens"
+    },
+    "alertas": [
+      "23/10: o Luan pediu vídeo que prove o voto. Não foi achado: as reportagens (SBT, Band, TV Brasil, Record) e a transmissão integral da sessão (TV Senado, via Gazeta do Povo BkEvpDcQNPo) só mostram o placar total (60 a 19), sem nomes, e não há vídeo de imprensa que cite o voto de Flávio. Vídeo mantido; a prova é a lista oficial da Agência Senado (\"Flávio Bolsonaro (PSL-RJ) Sim\", conferida em 23/10).",
+      "Vídeos de Flávio defendendo a reforma em 2019 existem só em canais de apoiadores e com ele falando livremente: descartados pela regra do Luan.",
+      "Se o Luan preferir um vídeo com o placar no painel do Senado: Jornal da Noite (Band) bXZTUa5iPbI, 20 a 35 s (painel \"SIM 60, NÃO 19\"), também sem nomes.",
+      "Antes da reforma já havia aposentadoria por idade (65 homem, 60 mulher); a novidade foi exigir idade mínima de todos e subir a das mulheres para 62. A carta diz \"fixou\", que é exato.",
+      "Voto dele no 1º turno (01/10/2019) não conferido; a carta fala só do voto registrado no 2º turno.",
+      "Proposta atual: o estudo revelado pela Folha (08/10/2026) é negado por Flávio; não usar como fato na carta."
+    ],
+    "verificado_em": "2026-10-23"
+  },
+  {
+    "id": "26",
+    "valor": "26",
+    "naipe": "paus",
+    "candidato": "flavio",
+    "texto_original": "Privatizar praias.",
+    "texto_carta": "Dar parecer favorável à PEC que tira da União os terrenos de marinha e permite vendê-los a quem já os ocupa, a \"PEC das Praias\".",
+    "hashtag": "#patrimôniopúblico",
+    "status": "reescrita",
+    "motivo_mudanca": "Texto original (\"privatizar praias\") é contestado por ele; a fonte mostra que ele deu parecer favorável à PEC dos terrenos de marinha, a \"PEC das Praias\".",
+    "titulo_pagina": "PEC das Praias: terrenos de marinha",
+    "explicacao": "A PEC 3/2022, chamada de \"PEC das Praias\", acaba com a propriedade da União sobre os terrenos de marinha (faixa do litoral onde ficam casas, bares e hotéis). Pelo texto, ocupantes particulares podem comprar essas áreas, e estados e municípios as recebem de graça. **Flávio Bolsonaro** foi o relator na CCJ do Senado e apresentou parecer favorável; a votação foi adiada por pedido de vista em 04/12/2024 e a PEC segue parada na comissão. Na mesma sessão, o senador Rogério Carvalho (PT-SE) disse que o parecer piora o texto: a Constituição hoje não impõe condição para o acesso à praia, e o relatório o condiciona ao plano diretor de cada município; além disso, quem tem grandes áreas fica livre do laudêmio (taxa paga à União na venda). **Ressalva:** Flávio afirma que a PEC não privatiza praias; ele incluiu no texto que as praias são bens de uso comum com livre acesso. Críticos e ambientalistas apontam risco de restrição de acesso e de dano ao litoral.",
+    "fontes": [
+      {
+        "titulo": "CCJ concede vista para PEC das Praias",
+        "veiculo": "Agência Senado",
+        "data": "2024-12-04",
+        "url": "https://www12.senado.leg.br/noticias/materias/2024/12/04/ccj-concede-vista-para-pec-das-praias",
+        "oficial": true
+      },
+      {
+        "titulo": "PEC 3/2022 (tramitação)",
+        "veiculo": "Senado Federal",
+        "data": "2024-12-04",
+        "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/151923",
+        "oficial": true
+      },
+      {
+        "titulo": "PEC das Praias tem votação adiada após senadores governistas pedirem vista",
+        "veiculo": "A Gazeta (ES)",
+        "data": "2024-12-04",
+        "url": "https://www.agazeta.com.br/brasil/pec-das-praias-tem-votacao-adiada-apos-senadores-governistas-pedirem-vista-1224",
+        "oficial": false
+      }
+    ],
+    "video": {
+      "url": "https://www.youtube.com/watch?v=ucOi5Sb11d8",
+      "plataforma": "youtube",
+      "embed": "https://www.youtube.com/embed/ucOi5Sb11d8?start=82&end=111",
+      "inicio_s": 82,
+      "fim_s": 111,
+      "duracao_trecho_s": 29,
+      "titulo": "Pedido de vista adia votação da PEC das Praias",
+      "canal": "TV Senado",
+      "data": "2024-12-04",
+      "o_que_mostra": "TV Senado (04/12/2024), na CCJ: logo depois de Flávio ler o parecer, o senador Rogério Carvalho (PT-SE) aponta que o texto condiciona o acesso à praia ao plano diretor e livra os grandes donos de terrenos de marinha do laudêmio"
+    },
+    "alertas": [
+      "Situação conferida nos dados abertos do Senado em 22/10/2026: tramitando, último andamento \"pedido de vista concedido\" em 04/12/2024.",
+      "22/10 noite: vídeo trocado: saiu Flávio defendendo a PEC (Metrópoles MXWEUiZDr5o) e entrou a TV Senado do dia do pedido de vista: explica a transferência dos terrenos e registra a negativa dele em uma frase.",
+      "23/10 (revisão do Luan): trecho trocado de 17-38 s para 82-111 s: em vez da narração com a negativa de Flávio, mostra o senador Rogério Carvalho (PT-SE) rebatendo o parecer na CCJ. Nome conferido em Agência Senado e A Gazeta (04/12/2024)."
+    ],
+    "verificado_em": "2026-10-23"
+  },
+  {
+    "id": "27",
+    "valor": "27",
+    "naipe": "paus",
+    "candidato": "flavio",
+    "texto_original": "Defender o fim do Pix.",
+    "texto_carta": "Dizer que, para negociar o fim do tarifaço de Trump, o Congresso deveria antes aprovar anistia ampla, geral e irrestrita.",
+    "hashtag": "#soberania",
+    "status": "reescrita",
+    "motivo_mudanca": "Texto original atribuía a ele defender o fim do Pix, o que as checagens apontam como falso (a fonte original era sobre Eduardo Bolsonaro); a carta passou a tratar do tarifaço dos EUA.",
+    "titulo_pagina": "Tarifaço de Trump e anistia",
+    "explicacao": "Em 10/07/2025, um dia depois de Trump anunciar tarifa de 50% sobre produtos brasileiros, **Flávio Bolsonaro** disse à CNN que o governo teria de aceitar o que foi imposto e que a primeira coisa a pôr na mesa era o Congresso aprovar uma \"anistia ampla, geral e irrestrita\" (o projeto de anistia aos envolvidos no 8 de janeiro, que poderia alcançar o pai dele). Disse ainda que, caso contrário, Trump aumentaria as tarifas \"até a estratosfera\" e culpou Moraes e Lula pela crise. **Ressalva:** em 2026 ele pediu ao governo dos EUA que não aplique a nova sobretaxa.",
+    "fontes": [
+      {
+        "titulo": "Congresso precisa aprovar anistia para negociar redução de tarifas dos EUA, diz Flávio Bolsonaro",
+        "veiculo": "SBT News",
+        "data": "2025-07-11",
+        "url": "https://sbtnews.sbt.com.br/noticia/politica/congresso-precisa-aprovar-anistia-para-negociar-reducao-de-tarifas-dos-eua-diz-flavio-bolsonaro",
+        "oficial": false
+      },
+      {
+        "titulo": "Flávio Bolsonaro diz a Trump que tarifaço daria 'vitória' a Lula",
+        "veiculo": "Estado de Minas (Folha)",
+        "data": "2026-07-02",
+        "url": "https://www.em.com.br/politica/2026/07/7453606-flavio-bolsonaro-diz-a-trump-que-tarifaco-daria-vitoria-a-lula.html",
+        "oficial": false
+      },
+      {
+        "titulo": "Flávio Bolsonaro não disse que vai extinguir Pix para agradar a Trump",
+        "veiculo": "Aos Fatos",
+        "data": "2026-06-09",
+        "url": "https://www.aosfatos.org/noticias/flavio-bolsonaro-nao-disse-vai-extinguir-pix-agradar-trump/",
+        "oficial": false
+      }
+    ],
+    "video": {
+      "url": "https://www.youtube.com/watch?v=w1gyQryNjTM",
+      "plataforma": "youtube",
+      "embed": "https://www.youtube.com/embed/w1gyQryNjTM?start=66&end=95",
+      "inicio_s": 66,
+      "fim_s": 95,
+      "duracao_trecho_s": 29,
+      "titulo": "Flávio Bolsonaro: Governo tem que aceitar o que foi imposto por Trump | CNN ARENA",
+      "canal": "CNN Brasil",
+      "data": "2025-07-10",
+      "o_que_mostra": "Flávio, na CNN em 10/07/2025, diz que a primeira coisa a pôr na mesa é o Congresso aprovar anistia ampla, senão Trump sobe as tarifas \"até a estratosfera\""
+    },
+    "alertas": [
+      "Mudança de tema: a carta original era sobre o Pix e é falsa. No tema Pix só há a fala imprecisa dele (JN, 28/08/2026) de que a gratuidade foi exigência do pai (Aos Fatos: decisão do Banco Central), fraca para carta. O Luan decide se aceita o tema tarifaço.",
+      "Hashtag original #direitostrabalhistas estava errada; usei #soberania.",
+      "Fala de julho de 2025 (antes da candidatura).",
+      "O vídeo cobre a fala; o trecho em que a CNN diz \"anistia aos envolvidos no 8 de janeiro\" está de 17 a 28 s, fora do recorte."
+    ],
+    "verificado_em": "2026-10-22"
+  },
+  {
+    "id": "28",
+    "valor": "28",
+    "naipe": "paus",
+    "candidato": "flavio",
+    "texto_original": "Privatizar 95% das estatais, como Petrobras, Banco do Brasil e Caixa, assim como luz e água .",
+    "texto_carta": "Prometer a investidores privatizar 95% das estatais.",
+    "hashtag": "#estadominimo",
+    "status": "reescrita",
+    "motivo_mudanca": "Texto original citava Petrobras, Banco do Brasil, Caixa, luz e água; ele falou em 95% das estatais, sem nomear empresas, e a campanha descartou vender as três.",
+    "titulo_pagina": "Privatizar 95% das estatais",
+    "explicacao": "**Flávio Bolsonaro**, na CEO Conference do banco BTG Pactual (12/02/2026), disse a investidores: \"Não dá para ser tudo, mas vamos privatizar 95%\", ressalvando áreas que considera estratégicas, como terras raras.\n\nO plano de governo registrado fala em retomar o programa de desestatização \"caso a caso\", sem listar empresas.\n\n**Ressalva honesta:** em 08/10/2026 o coordenador econômico Adolfo Sachsida disse que Petrobras, Banco do Brasil e Caixa \"não serão tocados\". Ninguém da campanha disse quais estatais seriam vendidas.",
+    "fontes": [
+      {
+        "titulo": "'Tesouraço' e privatizações: os sinais de Flávio sobre a economia",
+        "veiculo": "Exame",
+        "data": "2026-02-14",
+        "url": "https://exame.com/brasil/tesouraco-e-privatizacoes-os-sinais-de-flavio-sobre-a-economia/",
+        "oficial": false
+      },
+      {
+        "titulo": "As promessas de Flávio Bolsonaro: privatização de 95% das estatais e corte de gastos e de impostos",
+        "veiculo": "NeoFeed",
+        "data": "2026-02-11",
+        "url": "https://neofeed.com.br/economia/as-promessas-de-flavio-bolsonaro-privatizacao-de-95-das-estatais-e-corte-de-gastos-e-de-impostos/",
+        "oficial": false
+      },
+      {
+        "titulo": "Plano de governo: retomar o Programa Nacional de Desestatização \"avaliando caso a caso\"",
+        "veiculo": "Campanha Flávio Bolsonaro (plano registrado no TSE)",
+        "data": "2026-08-13",
+        "url": "https://www.flaviobolsonaro.com.br/plano-de-governo/leitura",
+        "oficial": true
+      },
+      {
+        "titulo": "Petrobras, BB e Caixa serão privatizados? Veja o que diz coordenador de Flávio Bolsonaro",
+        "veiculo": "Forbes Brasil",
+        "data": "2026-10-08",
+        "url": "https://forbes.com.br/forbes-money/2026/10/petrobras-bb-e-caixa-serao-privatizados-veja-o-que-diz-coordenador-de-flavio-bolsonaro/",
+        "oficial": false
+      },
+      {
+        "titulo": "Entrevista com Flávio Bolsonaro, CEO Conference 2026 (vídeo oficial do BTG; a frase está aos 35:09)",
+        "veiculo": "BTG Pactual",
+        "data": "2026-02-12",
+        "url": "https://www.youtube.com/watch?v=X7ev9xPC2SY&t=2109s",
+        "oficial": false
+      }
+    ],
+    "video": null,
+    "alertas": [
+      "23/10: SEM VÍDEO. O vídeo do BTG (ele falando livremente, pedido do Luan para trocar) virou só fonte, com o tempo da frase. Não foi achada reportagem de TV ou telejornal que cite os 95%: buscas por \"95% das estatais\", BTG, Neofeed e privatização só trouxeram a entrevista do BTG, um repost amador e vídeos da campanha.",
+      "Alternativas, nenhuma recomendada: (1) repost do canal amador TV Jornalismo (z_G_ZoHxM_c, 25 a 53 s): trecho do BTG com a frase dos 95% e uma narração; canal não jornalístico, sem dono identificado. (2) UOL nNvKrg0ZAk8 (05/04/2022), 77 a 87 s: Flávio diz \"eu sou a favor de privatizar a Petrobras, sempre\"; é outra afirmação (de 2022) e o vídeo segue com ele falando.",
+      "O vídeo oficial do BTG é de 12/02/2026 (NeoFeed noticiou em 11/02). Data do plano: o Poder360 noticiou em 13/08/2026.",
+      "Campanha recuou depois: Sachsida (08/10) disse que Petrobras, BB e Caixa ficam estatais, e Flávio chamou de \"boataria\" os rumores de privatização (Jovem Pan, 10/10); a explicação já traz a ressalva."
+    ],
+    "verificado_em": "2026-10-23"
+  },
+  {
+    "id": "29",
+    "valor": "29",
+    "naipe": "paus",
+    "candidato": "flavio",
+    "texto_original": "Acabar com 18 ministérios importantes e trocar trabalhadores por Inteligência Artificial (IA).",
+    "texto_carta": "Cortar no mínimo 10 ministérios.",
+    "hashtag": "#estadominimo",
+    "status": "ajustada",
+    "motivo_mudanca": "Texto original falava em 18 ministérios e troca de trabalhadores por IA; o plano fala em cortar no mínimo 10 ministérios, e a IA não está no plano.",
+    "titulo_pagina": "Corte de pelo menos 10 ministérios",
+    "explicacao": "O plano de governo de **Flávio Bolsonaro** (\"Para o Brasil Vencer o Atraso\", registrado em agosto de 2026) prevê \"o corte de no mínimo 10 ministérios\", dentro do que ele chama de \"tesouraço\". No Jornal Nacional de 28/08/2026, ele repetiu que vai reduzir a quantidade de ministérios quando a apresentadora perguntou se o salário mínimo teria aumento real, e não respondeu sim ou não.\n\n**Ressalva honesta:** o plano não diz quais ministérios seriam cortados nem quais áreas seriam fundidas.",
+    "fontes": [
+      {
+        "titulo": "Plano de governo \"Para o Brasil Vencer o Atraso\" (texto integral)",
+        "veiculo": "Campanha Flávio Bolsonaro",
+        "data": "2026-08-13",
+        "url": "https://www.flaviobolsonaro.com.br/plano-de-governo/leitura",
+        "oficial": true
+      },
+      {
+        "titulo": "O que se sabe sobre o plano econômico de Flávio Bolsonaro",
+        "veiculo": "Poder360",
+        "data": "2026-10-13",
+        "url": "https://www.poder360.com.br/poder-eleicoes-2026/o-que-se-sabe-sobre-o-plano-economico-de-flavio-bolsonaro/",
+        "oficial": false
+      },
+      {
+        "titulo": "Checamos: entrevista de Flávio Bolsonaro ao Jornal Nacional",
+        "veiculo": "Aos Fatos",
+        "data": "2026-08-28",
+        "url": "https://www.aosfatos.org/noticias/checamos-flavio-bolsonaro-globo/",
+        "oficial": false
+      }
+    ],
+    "video": {
+      "url": "https://www.youtube.com/watch?v=FVgf941fcJA",
+      "plataforma": "youtube",
+      "embed": "https://www.youtube.com/embed/FVgf941fcJA?start=146&end=176",
+      "inicio_s": 146,
+      "fim_s": 176,
+      "duracao_trecho_s": 30,
+      "titulo": "Flávio Bolsonaro lança plano de governo com propostas para STF; Denise Campos de Toledo analisa",
+      "canal": "Jovem Pan News",
+      "data": "2026-08-13",
+      "o_que_mostra": "Jornal Jovem Pan (13/08/2026), no lançamento do plano: o plano usa as palavras tesouraço e revogaço e promete corte de gastos, como o corte de dez ministérios"
+    },
+    "alertas": [
+      "Texto original falava em \"18 ministérios\" e troca de servidores por IA: o número não aparece em fonte e a IA é fala da coordenadora Daniella Marques, não do plano; saíram por decisão do Luan (22/10).",
+      "23/10: vídeo trocado a pedido do Luan: saiu o trecho do JN (DkxLps-IYJA, Flávio falando livremente) e entrou a reportagem da Jovem Pan sobre o lançamento do plano. A fala do JN ficou só na explicação, com a checagem da Aos Fatos como fonte.",
+      "Jovem Pan é emissora alinhada à direita; o trecho é só a descrição do plano, sem opinião."
+    ],
+    "verificado_em": "2026-10-23"
+  },
+  {
+    "id": "30",
+    "valor": "30",
+    "naipe": "paus",
+    "candidato": "flavio",
+    "texto_original": "Privatizar o SUS e adotar saúde somente para quem puder pagar.",
+    "texto_carta": "Prometer anistia e, se ela não passar, indulto aos condenados pelo 8 de janeiro e pela trama golpista, incluindo o pai.",
+    "hashtag": "#democracia",
+    "status": "reescrita",
+    "motivo_mudanca": "Texto original atribuía a ele privatizar o SUS, o que as checagens apontam como falso; a carta passou a tratar da promessa de anistia ou indulto.",
+    "titulo_pagina": "Anistia ou indulto aos condenados do 8 de janeiro",
+    "explicacao": "No Jornal Nacional de 28/08/2026, **Flávio Bolsonaro** disse: \"eu, como presidente da República, vou trabalhar pra que a anistia seja feita ainda na transição e, se caso não ocorra, um indulto pras pessoas do 8 de janeiro\".\n\nO pai, Jair Bolsonaro, foi condenado pelo STF a 27 anos e 3 meses por tentativa de golpe de Estado. Segundo a ConJur (08/10/2026), Flávio diz que reverter a prisão do pai é uma de suas prioridades e que tentará a anistia e, se não conseguir, o indulto.\n\n**Ressalva honesta:** a anistia e o indulto não estão no plano de governo registrado; a promessa é verbal. Juristas ouvidos pela ConJur dizem que o STF pode derrubar a medida.",
+    "fontes": [
+      {
+        "titulo": "Perdão de Flávio a Jair Bolsonaro esbarra em controle de constitucionalidade do STF",
+        "veiculo": "ConJur",
+        "data": "2026-10-08",
+        "url": "https://conjur.com.br/2026-out-08/perdao-de-flavio-a-jair-bolsonaro-esbarra-em-controle-de-constitucionalidade-do-stf/",
+        "oficial": false
+      },
+      {
+        "titulo": "Checamos: entrevista de Flávio Bolsonaro ao Jornal Nacional",
+        "veiculo": "Aos Fatos",
+        "data": "2026-08-28",
+        "url": "https://www.aosfatos.org/noticias/checamos-flavio-bolsonaro-globo/",
+        "oficial": false
+      }
+    ],
+    "video": {
+      "url": "https://www.youtube.com/watch?v=UB3UsGrALnw",
+      "plataforma": "youtube",
+      "embed": "https://www.youtube.com/embed/UB3UsGrALnw?start=386&end=399",
+      "inicio_s": 386,
+      "fim_s": 399,
+      "duracao_trecho_s": 13,
+      "titulo": "'Como presidente, vou trabalhar para que a anistia seja feita na transição', diz Flávio Bolsonaro",
+      "canal": "GloboNews",
+      "data": "2026-08-29",
+      "o_que_mostra": "Flávio, no Jornal Nacional de 28/08/2026, promete anistia na transição e, se não sair, indulto às pessoas do 8 de janeiro"
+    },
+    "alertas": [
+      "Tema trocado por decisão do Luan (22/10): a carta original falava em privatizar o SUS (boato) e a versão verdadeira (contratar rede privada em horário ocioso) não funcionava no jogo.",
+      "No trecho ele fala em \"pessoas do 8 de janeiro\"; a inclusão do pai vem da ConJur e da pergunta da entrevista (que cita a condenação de Jair a 27 anos e 3 meses, aos 30 s do mesmo vídeo).",
+      "Hashtag #democracia repete a da carta 32."
+    ],
+    "verificado_em": "2026-10-22"
+  },
+  {
+    "id": "31",
+    "valor": "31",
+    "naipe": "paus",
+    "candidato": "flavio",
+    "texto_original": "Acabar com as leis trabalhistas deixando cada empregado negociar direto com o patrão.",
+    "texto_carta": "Defender que empresa e trabalhador negociem direto a jornada e as condições de trabalho, em vez de uma regra única para todos.",
+    "hashtag": "#direitostrabalhistas",
+    "status": "reescrita",
+    "motivo_mudanca": "O texto original dizia que ele quer acabar com as leis trabalhistas; o plano defende o negociado sobre o legislado, \"dentro da lei\", e a campanha defende negociar a jornada direto com o empregador.",
+    "titulo_pagina": "Negociado sobre o legislado",
+    "explicacao": "O plano de governo de Flávio Bolsonaro diz: \"defendemos o negociado sobre o legislado, ou seja, permitir que trabalhador e empresa combinem diretamente as condições de trabalho que funcionam para os dois, dentro da lei, em vez de seguir uma regra única imposta a todos\".\n\nNa véspera da votação da 6x1 (13/10/2026), o Jornal da Band resumiu: o comando da campanha defende a liberdade de negociação para que empregados e empregadores definam juntos a jornada. O plano não trata do fim da escala 6x1.\n\n**Ressalva honesta:** o plano e o candidato dizem que os direitos trabalhistas da Constituição ficam garantidos, e ele votou a favor do fim da 6x1. Ele não propõe revogar a CLT; a crítica de sindicatos é que, numa negociação direta, o trabalhador tem menos força que o patrão.",
+    "fontes": [
+      {
+        "titulo": "Plano de governo: trabalho e emprego (negociado sobre o legislado)",
+        "veiculo": "Campanha Flávio Bolsonaro (plano registrado no TSE)",
+        "data": "2026-08-13",
+        "url": "https://www.flaviobolsonaro.com.br/plano-de-governo/leitura",
+        "oficial": true
+      },
+      {
+        "titulo": "Flávio deixa fim da escala 6 X 1 fora do plano de governo",
+        "veiculo": "Poder360",
+        "data": "2026-08-13",
+        "url": "https://www.poder360.com.br/poder-eleicoes-2026/flavio-deixa-fim-da-escala-6-x-1-fora-do-plano-de-governo/",
+        "oficial": false
+      }
+    ],
+    "video": {
+      "url": "https://www.youtube.com/watch?v=OtwePyLD1Us",
+      "plataforma": "youtube",
+      "embed": "https://www.youtube.com/embed/OtwePyLD1Us?start=94&end=112",
+      "inicio_s": 94,
+      "fim_s": 112,
+      "duracao_trecho_s": 18,
+      "titulo": "Flávio muda de ideia e diz que votará pelo fim da escala 6x1 após visitar Jair | Jornal da Band",
+      "canal": "Band Jornalismo (Jornal da Band)",
+      "data": "2026-10-13",
+      "o_que_mostra": "Jornal da Band (13/10/2026), na voz da repórter: a campanha de Flávio defende liberdade de negociação para que empregados e empregadores definam juntos a jornada; e ele diz que o governo pagaria às empresas o custo do fim da 6x1"
+    },
+    "alertas": [
+      "Data do plano: o Poder360 noticiou em 13/08/2026; conferir data exata do registro no TSE.",
+      "23/10: texto ajustado para casar com o vídeo (a negociação da jornada é o que a reportagem diz); \"negociado sobre o legislado\" continua só no plano, sem vídeo de imprensa achado que cite a expressão (há só vídeos de canais pequenos ou influenciadores).",
+      "O mesmo vídeo segue, 40 s depois do trecho, com um trecho de discurso de Flávio (2:31 a 2:57) com críticas ao governo; não é fala livre longa, mas quem assistir além do recorte verá. Mesmo vídeo da carta 23.",
+      "Nenhum vídeo encontrado prova a frase do plano; a prova é o próprio plano (fonte oficial da campanha)."
+    ],
+    "verificado_em": "2026-10-23"
+  },
+  {
+    "id": "32",
+    "valor": "32",
+    "naipe": "paus",
+    "candidato": "flavio",
+    "texto_original": "Mudar a Constituição Cidadã para acabar com direitos sociais, como moradia, saúde e educação.",
+    "texto_carta": "Usar a maioria no Congresso para mudar a Constituição, reformar o Judiciário e reduzir a maioridade penal.",
+    "hashtag": "#democracia",
+    "status": "reescrita",
+    "motivo_mudanca": "Texto original dizia que ele quer acabar com direitos sociais, sem fonte; a fonte mostra a fala sobre usar a maioria no Congresso para mudar a Constituição e as PECs que ele citou.",
+    "titulo_pagina": "Mudar a Constituição com a maioria no Congresso",
+    "explicacao": "Em Goiânia (06/10/2026), **Flávio Bolsonaro** disse: \"Com a maioria no Senado, com a maioria na Câmara para a gente fazer o presidente da Câmara, para a gente mudar a Constituição e redemocratizar esse país\".\n\nNo dia seguinte, ao explicar, citou PECs para uma \"reforma do Judiciário\", para reduzir a maioridade penal, para mudar pontos da reforma tributária e para acabar com a reeleição. O plano de governo prevê baixar a maioridade penal de 18 para 16 anos.\n\n**Ressalva honesta:** ele disse que vai respeitar a Constituição e não falou em acabar com direitos sociais. Mudar a Constituição exige 308 deputados e 49 senadores, em dois turnos, e cláusulas pétreas não podem ser abolidas.",
+    "fontes": [
+      {
+        "titulo": "Flávio diz que usará maioria de direita para mudar a Constituição",
+        "veiculo": "Congresso em Foco",
+        "data": "2026-10-07",
+        "url": "https://www.congressoemfoco.com.br/noticia/123051/flavio-diz-que-usara-maioria-de-direita-para-mudar-a-constituicao",
+        "oficial": false
+      },
+      {
+        "titulo": "Flávio cita PECs e diz que respeitará Constituição após fala sobre 'redemocratizar o país' (Agência Estado)",
+        "veiculo": "Midiamax / Estadão Conteúdo",
+        "data": "2026-10-07",
+        "url": "https://midiamax.com.br/brasil/2026/flavio-cita-pecs-diz-respeitara-constituicao-apos-fala-redemocratizar-pais/",
+        "oficial": false
+      },
+      {
+        "titulo": "Plano de governo: maioridade penal de 18 para 16 anos",
+        "veiculo": "Campanha Flávio Bolsonaro (plano registrado no TSE)",
+        "data": "2026-08-13",
+        "url": "https://www.flaviobolsonaro.com.br/plano-de-governo/leitura",
+        "oficial": true
+      }
+    ],
+    "video": {
+      "url": "https://www.youtube.com/watch?v=vCWM4_xqhTs",
+      "plataforma": "youtube",
+      "embed": "https://www.youtube.com/embed/vCWM4_xqhTs?start=20&end=49",
+      "inicio_s": 20,
+      "fim_s": 49,
+      "duracao_trecho_s": 29,
+      "titulo": "Flávio Bolsonaro fala em mudar a Constituição e promete \"redemocratizar\" o país",
+      "canal": "TV Jornal SBT",
+      "data": "2026-10-07",
+      "o_que_mostra": "TV Jornal (SBT), 07/10/2026: em Goiânia, Flávio disse que quer usar a maioria no Congresso para eleger o presidente da Câmara e mudar a Constituição; a apresentadora lê a frase \"mudar a Constituição e redemocratizar esse país\""
+    },
+    "alertas": [
+      "23/10: vídeo trocado a pedido do Luan: saiu Flávio em entrevista (Metrópoles AI5Dr9_LD_M, falando livremente) e entrou a reportagem da TV Jornal (SBT), que lê a frase de 06/10 e depois explica as regras para mudar a Constituição.",
+      "O trecho prova a parte \"usar a maioria no Congresso para mudar a Constituição\"; a reforma do Judiciário e a maioridade penal estão nas fontes (Midiamax/Estadão de 07/10 e plano de governo), não no vídeo.",
+      "Midiamax dá 403 no curl, mas abre no navegador (conferido por WebFetch em 22/10)."
+    ],
+    "verificado_em": "2026-10-23"
+  },
+  {
+    "id": "compartilhe",
+    "valor": null,
+    "naipe": null,
+    "candidato": null,
+    "texto_original": "Compartilhe! Envie o PDF diretamente para seus amigos e familiares ou exiba o QR code a seguir para quem quiser baixar o arquivo mais recente do jogo:",
+    "texto_carta": "Compartilhe! Envie o link para amigos e familiares ou mostre este QR code: ele abre o jogo, as fontes de cada carta e a versão mais recente.",
+    "hashtag": null,
+    "status": "ajustada",
+    "motivo_mudanca": "O QR passa a abrir esta página, com as fontes e vídeos de cada carta.",
+    "titulo_pagina": "Baralho Democrático",
+    "explicacao": "Jogo de cartas \"Isso é bom ou ruim?\": cada carta traz uma proposta ou ação de um dos candidatos do 2º turno de 2026, sem dizer de quem é. Primeiro a pessoa julga; depois descobre quem defende e confere a fonte e o vídeo pelo QR code.\n\nBaseado no \"Baralho 2026\" do Coletivo do Baralho (linktr.ee/nossobaralho), com atualização e checagem de Luan Araújo.",
+    "fontes": [
+      {
+        "titulo": "Baralho 2026 (original)",
+        "veiculo": "Coletivo do Baralho",
+        "data": "2026-10-08",
+        "url": "https://linktr.ee/nossobaralho",
+        "oficial": false
+      }
+    ],
+    "video": null,
+    "alertas": [],
+    "verificado_em": "2026-10-22"
+  },
+  {
+    "id": "importante",
+    "valor": null,
+    "naipe": null,
+    "candidato": null,
+    "texto_original": "Importante. O jogo foi pensado para ter dois momentos. No primeiro momento, é importante que a pessoa leia a parte da frente da carta e julgue, por conta própria, se ela acha que aquilo é bom ou ruim. Só em um segundo momento é que ela vai saber qual dos dois políticos fez ou defende determinada coisa.",
+    "texto_carta": "Importante. O jogo tem dois momentos. Primeiro, a pessoa lê a frente da carta e julga, por conta própria, se aquilo é bom ou ruim. Só depois descobre qual dos dois candidatos fez ou defende aquilo. O QR code de cada carta mostra a fonte e um vídeo.",
+    "hashtag": null,
+    "status": "ajustada",
+    "motivo_mudanca": "Texto encurtado, com a explicação do QR code.",
+    "titulo_pagina": "Como jogar",
+    "explicacao": "1. Leia a frente da carta em voz alta, sem olhar o verso.\n2. Cada pessoa diz se acha aquilo bom ou ruim.\n3. Vire a carta: o verso mostra quem defende ou fez.\n4. Escaneie o QR code para ver a fonte, a data e um vídeo curto.",
+    "fontes": [],
+    "video": null,
+    "alertas": [
+      "Rodapé sugerido para impressão: 'Uso pessoal, não distribuir impresso.'"
+    ],
+    "verificado_em": "2026-10-22"
+  }
+]

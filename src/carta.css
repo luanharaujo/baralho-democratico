@@ -1,0 +1,96 @@
+/* Desenho da carta. Dentro de .carta, 1em = 1/63 da largura (1 mm numa carta de 63 x 88 mm). */
+.carta {
+  --cw: 63mm;
+  --vermelho: #9b1b30;
+  --laranja: #e8461e;
+  --preto: #111111;
+  --destaque: #a51c30;
+  position: relative;
+  width: var(--cw);
+  height: calc(var(--cw) * 88 / 63);
+  font-size: calc(var(--cw) / 63);
+  background: #fff;
+  color: var(--preto);
+  font-family: 'Aileron', 'Helvetica Neue', Arial, sans-serif;
+  box-sizing: border-box;
+  break-inside: avoid;
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+.carta * { box-sizing: border-box; margin: 0; }
+.carta .borda {
+  position: absolute;
+  inset: 2.6em;
+  border: 0.6em solid #1d1d1d;
+  border-radius: 5em;
+  overflow: hidden;
+}
+.carta.n-copas { --naipe: var(--vermelho); }
+.carta.n-ouros { --naipe: var(--laranja); }
+.carta.n-espadas, .carta.n-paus { --naipe: var(--preto); }
+
+/* Índice do canto: número em cima, naipe embaixo; o de baixo é o mesmo bloco girado 180 graus. */
+.carta .idx {
+  position: absolute;
+  width: 9em;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: var(--naipe);
+  fill: var(--naipe);
+  line-height: 1;
+}
+.carta .idx.tl { top: 2.6em; left: 1.6em; }
+.carta .idx.br { bottom: 2.6em; right: 1.6em; transform: rotate(180deg); }
+.carta .idx .v { font-family: 'Plex', 'Helvetica Neue', Arial, sans-serif; font-size: 7em; letter-spacing: -0.03em; }
+/* 6 e 9 levam traço embaixo, para não confundir de cabeça para baixo */
+.carta .idx .v.sub { text-decoration: underline; text-decoration-thickness: 0.07em; text-underline-offset: 0.08em; }
+.carta .idx .n { display: block; width: 6.6em; margin-top: 0.9em; }
+.carta .idx .n svg { display: block; width: 100%; height: auto; }
+
+/* Frente (pergunta) */
+.carta .corpo {
+  position: absolute;
+  top: 17em;
+  left: 3.2em;
+  right: 3.2em;
+  bottom: 19em;
+  text-align: center;
+  overflow: hidden;
+}
+.carta .q1 { font-size: 4.2em; color: var(--destaque); line-height: 1.25; font-weight: 700; }
+.carta .q2 { font-size: 4.2em; line-height: 1.25; margin-bottom: 0.9em; }
+.carta .txt { --fs: 4.6; font-size: 4.6em; line-height: 1.32; hyphens: manual; overflow-wrap: break-word; }
+.carta .tag {
+  position: absolute;
+  font-size: 3.4em;      /* daqui para baixo, em = 3,4 mm */
+  bottom: 1.9em;
+  left: 0.9em;
+  right: 3.5em;
+  text-align: center;
+  white-space: nowrap;
+}
+
+/* Verso (resposta) */
+.carta .nome {
+  position: absolute;
+  font-size: 4.6em;
+  top: 1.5em;
+  left: 2.3em;
+  right: 1.1em;
+  text-align: center;
+  color: var(--vermelho);
+  font-weight: 700;
+  line-height: 1.3;
+}
+.carta .qr { position: absolute; top: 21.5em; left: 50%; width: 35em; margin-left: -17.5em; }
+.carta .qr svg { display: block; width: 100%; height: auto; }
+.carta .dica { position: absolute; font-size: 2.9em; top: 19.8em; left: 1.5em; right: 1.5em; text-align: center; line-height: 1.25; color: #333; }
+.carta .dica.site { font-size: 3.4em; top: 9em; left: 1.2em; right: 1.2em; }
+
+/* Especiais (Compartilhe e Importante) */
+.carta.especial .corpo { top: 6em; bottom: 6em; left: 3.5em; right: 3.5em; }
+.carta.especial .titulo { color: var(--destaque); font-size: 5em; margin-bottom: 0.4em; }
+.carta.especial .txt { --fs: 3.9; font-size: 3.9em; line-height: 1.33; }
+.carta.compartilhe .corpo { bottom: 40em; }
+.carta.compartilhe .qr { top: 46em; width: 30em; margin-left: -15em; }

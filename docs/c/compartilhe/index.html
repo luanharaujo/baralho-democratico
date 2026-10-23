@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Compartilhe · Baralho Democrático</title>
+<meta name="description" content="Baixe e compartilhe o Baralho Democrático">
+<meta name="referrer" content="no-referrer">
+<meta name="color-scheme" content="light">
+<link rel="icon" href="../../assets/icone.svg" type="image/svg+xml">
+<link rel="stylesheet" href="../../assets/estilo.css">
+</head>
+<body>
+<a class="pular" href="#conteudo">Pular para o conteúdo</a>
+<header class="topo"><a href="../../" class="marca"><span class="marca-naipes" aria-hidden="true">♥ ♠ ♦ ♣</span> Baralho Democrático</a></header>
+<main id="conteudo">
+<article class="carta-pagina">
+<h1>Compartilhe!</h1>
+<p>Envie o link para amigos e familiares ou mostre este QR code: ele abre o jogo, as fontes de cada carta e a versão mais recente.</p>
+<section id="baixar" class="baixar">
+<h2>Baixar o baralho</h2>
+<ul class="downloads">
+<li><a class="botao" href="../../pdf/baralho-democratico-duplex.pdf" download>Baralho completo (PDF, 8 cartas por folha)</a>
+<span>Mesmo formato do original: A4 deitado, imprimir frente e verso virando pela borda longa.</span></li>
+<li><a class="botao" href="../../pdf/baralho-democratico-4-por-folha.pdf" download>Cartas grandes (PDF, 4 por folha)</a>
+<span>Mais fácil de ler. A4 em pé, frente e verso pela borda longa, com marcas de corte.</span></li>
+</ul>
+<p class="nota">Para uso pessoal, para jogar em casa. Não distribua impresso.</p>
+</section>
+<p><a class="botao" href="../../">Conhecer o jogo e ver todas as cartas</a></p>
+</article>
+</main>
+<footer class="rodape">
+<p>Baseado no <a href="https://linktr.ee/nossobaralho">Baralho 2026</a> do Coletivo do Baralho / Regiane (linktr.ee/nossobaralho). Versão atualizada por Luan Araújo.</p>
+<p>Site mantido por <strong>Luan Araújo</strong>, como cidadão, sem impulsionamento pago. Não usa cookies nem rastreadores; os vídeos só carregam do YouTube se você tocar para assistir.</p>
+<p><a href="../../">Início</a> · <a href="../../correcoes/">O que mudou em relação ao original</a> · <a href="../../#baixar">Baixar o baralho</a></p>
+</footer>
+
+<script>
+(function(){
+  function cabe(el){ return el.scrollHeight <= el.clientHeight + 1 && el.scrollWidth <= el.clientWidth + 1; }
+  function ajustar(){
+    document.querySelectorAll('.carta .corpo').forEach(function(corpo){
+      var t = corpo.querySelector('.txt'); if(!t) return;
+      var base = parseFloat(getComputedStyle(t).getPropertyValue('--fs')) || 4.3;
+      var fs = base;
+      t.style.fontSize = fs + 'em';
+      while(!cabe(corpo) && fs > 2.4){ fs -= 0.1; t.style.fontSize = fs.toFixed(2) + 'em'; }
+    });
+    document.documentElement.setAttribute('data-ajustado', '1');
+  }
+  if (document.fonts && document.fonts.ready) { document.fonts.ready.then(ajustar); } else { ajustar(); }
+  window.addEventListener('load', ajustar);
+})();
+</script>
+
+<script src="../../assets/video.js" defer></script>
+</body>
+</html>

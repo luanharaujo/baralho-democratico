@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Página não encontrada</title>
+<meta name="description" content="">
+<meta name="referrer" content="no-referrer">
+<meta name="color-scheme" content="light">
+<link rel="icon" href="/baralho-democratico/assets/icone.svg" type="image/svg+xml">
+<link rel="stylesheet" href="/baralho-democratico/assets/estilo.css">
+</head>
+<body>
+<a class="pular" href="#conteudo">Pular para o conteúdo</a>
+<header class="topo"><a href="/baralho-democratico/" class="marca"><span class="marca-naipes" aria-hidden="true">♥ ♠ ♦ ♣</span> Baralho Democrático</a></header>
+<main id="conteudo">
+<h1>Página não encontrada</h1><p><a href="/baralho-democratico/">Voltar ao início</a></p></main>
+<footer class="rodape">
+<p>Baseado no <a href="https://linktr.ee/nossobaralho">Baralho 2026</a> do Coletivo do Baralho / Regiane (linktr.ee/nossobaralho). Versão atualizada por Luan Araújo.</p>
+<p>Site mantido por <strong>Luan Araújo</strong>, como cidadão, sem impulsionamento pago. Não usa cookies nem rastreadores; os vídeos só carregam do YouTube se você tocar para assistir.</p>
+<p><a href="/baralho-democratico/">Início</a> · <a href="/baralho-democratico/correcoes/">O que mudou em relação ao original</a> · <a href="/baralho-democratico/#baixar">Baixar o baralho</a></p>
+</footer>
+
+<script>
+(function(){
+  function cabe(el){ return el.scrollHeight <= el.clientHeight + 1 && el.scrollWidth <= el.clientWidth + 1; }
+  function ajustar(){
+    document.querySelectorAll('.carta .corpo').forEach(function(corpo){
+      var t = corpo.querySelector('.txt'); if(!t) return;
+      var base = parseFloat(getComputedStyle(t).getPropertyValue('--fs')) || 4.3;
+      var fs = base;
+      t.style.fontSize = fs + 'em';
+      while(!cabe(corpo) && fs > 2.4){ fs -= 0.1; t.style.fontSize = fs.toFixed(2) + 'em'; }
+    });
+    document.documentElement.setAttribute('data-ajustado', '1');
+  }
+  if (document.fonts && document.fonts.ready) { document.fonts.ready.then(ajustar); } else { ajustar(); }
+  window.addEventListener('load', ajustar);
+})();
+</script>
+
+<script src="/baralho-democratico/assets/video.js" defer></script>
+</body>
+</html>
